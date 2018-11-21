@@ -25,14 +25,13 @@ First-time Setup
      $ sudo apt-get install git
      $ sudo apt-get install python-pip
 
-2. Install language packages to add locale (English, Traditional Chinese, and
-   Thai in this example):
+2. Install language packages to add locale (English, Traditional Chinese in this
+   example):
 
    .. code-block:: bash
 
      $ sudo apt-get install language-pack-en
      $ sudo apt-get install language-pack-zh-hant
-     $ sudo apt-get install language-pack-th
 
 3. git clone source code:
 
