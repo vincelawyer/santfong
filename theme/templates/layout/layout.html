@@ -1,0 +1,50 @@
+{#
+  HTML5 Semantic Elements
+  @see http://www.w3schools.com/html/html5_semantic_elements.asp
+
+  Facebook Content Sharing Best Practices
+  @see https://developers.facebook.com/docs/sharing/best-practices
+#}
+{%- from 'layout/includes/i18n.html' import translations_for, lang_code2name -%}
+{%- from 'layout/includes/time.html' import Gregorian_calendar -%}
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8">
+  <title>{%- block title -%}{{ SITENAME }}{%- endblock -%}</title>
+  <meta name="keywords" content="{% block meta_keywords -%}{{ META_KEYWORDS }}{%- endblock %}"/>
+  <meta name="description" content="{% block meta_description -%}{{ META_DESCRIPTION }}{%- endblock %}"/>
+  <meta name="author" content="{% block meta_author -%}{{ AUTHOR }}{%- endblock %}"/>
+  {%- if OG_TITLE -%}<meta property="og:title" content="{{ OG_TITLE }}" />{%- endif -%}
+  {%- if OG_IMAGE -%}
+    <meta property="og:image" content="{{ OG_IMAGE }}" />
+  {% else %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/extra/Dharma_wheel.svg" />
+  {%- endif -%}
+  {%- if OG_DESCRIPTION -%}<meta property="og:description" content="{{ OG_DESCRIPTION }}" />{%- endif -%}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="manifest" href="/manifest.json" />
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://getbootstrap.com/docs/4.1/examples/carousel/carousel.css" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ relpath_to_site(DEFAULT_LANG, main_lang) }}/theme/css/style.css">
+</head>
+<body>
+{%- block adsense_page_level -%}{%- endblock -%}
+{% include 'layout/includes/top_nav.html' %}
+
+<main role="main">
+{%- block content -%}{%- endblock -%}
+{% include 'layout/includes/footer.html' %}
+</main>
+
+{% include 'layout/includes/cse.html' %}
+{% include 'layout/includes/analytics.html' %}
+{% include 'layout/includes/load_serviceWorker.html' %}
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>
