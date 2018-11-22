@@ -8,7 +8,7 @@ import (
 )
 
 // Get info of one final product
-func processTr(list productList, tr *goquery.Selection) productList {
+func getProductItemData(list productList, tr *goquery.Selection) productList {
 	item := productItem{}
 
 	// get title of the final product
@@ -33,7 +33,7 @@ func processTr(list productList, tr *goquery.Selection) productList {
 	return list
 }
 
-func handleProductList(list productList) {
+func getProductListData(list productList) {
 	fmt.Println(list.Url)
 
 	// convert URL from big5 to utf8
@@ -46,7 +46,7 @@ func handleProductList(list productList) {
 	table := doc.Find("#AutoNumber3").First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(_ int, tr *goquery.Selection) {
-		list = processTr(list, tr)
+		list = getProductItemData(list, tr)
 	})
 
 	rstAll := list.OgImageRst() + "\n\n"
@@ -60,5 +60,5 @@ func handleProductList(list productList) {
 
 func main() {
 	list := newProductList("../../content/pages/en/product/conduit-pipe/list.rst")
-	handleProductList(list)
+	getProductListData(list)
 }
