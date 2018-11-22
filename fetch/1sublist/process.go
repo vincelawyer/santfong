@@ -52,11 +52,7 @@ func getProductListData(list productList) productList {
 	return list
 }
 
-func main() {
-	list := newProductList("../../content/pages/en/product/conduit-pipe/list.rst")
-
-	list = getProductListData(list)
-
+func writeAll(list productList) {
 	rstAll := list.OgImageRst() + "\n\n"
 	for _, item := range list.Items {
 		rstAll += item.ToRstList()
@@ -64,4 +60,15 @@ func main() {
 	AppendStringToFile(list.RstPath, rstAll)
 
 	list.CreateFinalProductRstFiles()
+}
+
+func main() {
+	enrstpath := "../../content/pages/en/product/conduit-pipe/list.rst"
+	zhrstpath := getChineseRstPath(enrstpath)
+
+	enlist := newProductList(enrstpath)
+	enlist = getProductListData(enlist)
+	writeAll(enlist)
+
+	fmt.Println(zhrstpath)
 }
