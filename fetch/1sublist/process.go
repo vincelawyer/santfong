@@ -37,6 +37,7 @@ func getParentUrlTitle(rstpath string) (url, title string) {
 }
 
 func (l productList) CreateFinalProductRstFiles() {
+	fmt.Println()
 	for _, item := range l.Items {
 		ogImg := getRstImagePath(item.ImageSrcs[0])
 
@@ -45,7 +46,7 @@ func (l productList) CreateFinalProductRstFiles() {
 			item.Title+" - "+l.Title,
 			"en", "", item.Href, ogImg)
 		targetPath := getFinalProductRstPath(l.RstPath, item.Title)
-		fmt.Print(s)
+		fmt.Println(s)
 		writeToFile(targetPath, s)
 	}
 }
