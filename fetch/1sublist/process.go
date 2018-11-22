@@ -15,6 +15,8 @@ type productItem struct {
 
 type productList struct {
 	RstPath string
+	Title   string
+	Url     string
 	Items   []productItem
 }
 
@@ -77,11 +79,10 @@ func processTr(parentUrl, parentTitle, parentRstPath string, tr *goquery.Selecti
 }
 
 func handleProductList(list productList) {
-	parentUrl, parentTitle := getParentUrlTitle(list.RstPath)
-	fmt.Println(parentUrl)
+	fmt.Println(list.Url)
 
 	// convert URL from big5 to utf8
-	doc, err := NewDocumentFromNonUtf8Url(parentUrl, "big5")
+	doc, err := NewDocumentFromNonUtf8Url(list.Url, "big5")
 	if err != nil {
 		panic(err)
 	}
@@ -91,7 +92,7 @@ func handleProductList(list productList) {
 	table := doc.Find("#AutoNumber3").First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(_ int, tr *goquery.Selection) {
-		rstAll += processTr(parentUrl, parentTitle, list.RstPath, tr)
+		rstAll += processTr(list.Url, list.Title, list.RstPath, tr)
 	})
 
 	// add og:image metadata
@@ -105,5 +106,6 @@ func main() {
 	list := productList{
 		RstPath: "../../content/pages/en/product/conduit-pipe/list.rst",
 	}
+	list.Url, list.Title = getParentUrlTitle(list.RstPath)
 	handleProductList(list)
 }
