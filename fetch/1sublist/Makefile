@@ -9,9 +9,8 @@ endif
 
 ALL_GO_SOURCES=$(shell /bin/sh -c "find *.go | grep -v _test.go")
 
-sublist: fmt
-	@echo "\033[92mFetching remote images...\033[0m"
-	git checkout ../../content/pages/
+sublist: fmt checkout_content
+	@echo "\033[92mCreate product list and final product rst files...\033[0m"
 	go run $(ALL_GO_SOURCES)
 
 fmt:

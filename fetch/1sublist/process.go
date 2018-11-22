@@ -20,8 +20,6 @@ type productList struct {
 	Items   []productItem
 }
 
-var sublistOgImage = ""
-
 func getParentUrlTitle(rstpath string) (url, title string) {
 	_, err := replaceLines(rstpath, func(s string) string {
 		if strings.HasPrefix(s, ":title: ") {
@@ -94,19 +92,11 @@ func handleProductList(list productList) {
 		list = processTr(list, tr)
 	})
 
-	/*
-		if sublistOgImage == "" {
-			sublistOgImage = ":og_image: " + getRstImagePath(src)
-		}
-		// add og:image metadata
-		rstAll = sublistOgImage + "\n\n" + rstAll
-	*/
-
-	rstAll := ""
+	listOgImage := ":og_image: " + getRstImagePath(list.Items[0].ImageSrcs[0])
+	rstAll := listOgImage + "\n\n"
 	for _, item := range list.Items {
 		rstAll += item.ToRstList()
 	}
-	// append rst back to en product list
 	AppendStringToFile(list.RstPath, rstAll)
 
 	list.CreateFinalProductRstFiles()
