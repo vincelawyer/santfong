@@ -47,3 +47,12 @@ func (l productList) CreateFinalProductRstFiles() {
 		writeToFile(targetPath, s)
 	}
 }
+
+func newProductList(rstpath string) productList {
+	list := productList{
+		RstPath: rstpath,
+	}
+	list.SetUrlTitle()
+
+	return list
+}

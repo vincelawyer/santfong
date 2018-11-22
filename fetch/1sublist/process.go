@@ -60,9 +60,6 @@ func handleProductList(list productList) {
 }
 
 func main() {
-	list := productList{
-		RstPath: "../../content/pages/en/product/conduit-pipe/list.rst",
-	}
-	list.SetUrlTitle()
+	list := newProductList("../../content/pages/en/product/conduit-pipe/list.rst")
 	handleProductList(list)
 }
