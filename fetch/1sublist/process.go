@@ -67,7 +67,7 @@ func processTr(list productList, tr *goquery.Selection) (rst string) {
 	img := tr.Find("img").First()
 	src, ok := img.Attr("src")
 	if ok {
-		item.ImageSrcs = append(item.ImageSrcs, src)
+		item.ImageSrcs = append(item.ImageSrcs, fullUrl(list.Url, src))
 		src = fullUrl(list.Url, src)
 		downloadImage(src)
 	}
@@ -76,7 +76,7 @@ func processTr(list productList, tr *goquery.Selection) (rst string) {
 		sublistOgImage = ":og_image: " + getRstImagePath(src)
 	}
 
-	rst = titleImageToRstList(item.Title, item.Href, src)
+	rst = item.ToRstList()
 	createFinalProductRst(list.Title, list.RstPath, item.Title, item.Href, src)
 	return
 }
