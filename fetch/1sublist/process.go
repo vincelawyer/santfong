@@ -20,20 +20,19 @@ type productList struct {
 	Items   []productItem
 }
 
-func getParentUrlTitle(rstpath string) (url, title string) {
-	_, err := replaceLines(rstpath, func(s string) string {
+func (l *productList) SetUrlTitle() {
+	_, err := replaceLines(l.RstPath, func(s string) string {
 		if strings.HasPrefix(s, ":title: ") {
-			title = strings.TrimPrefix(s, ":title: ")
+			l.Title = strings.TrimPrefix(s, ":title: ")
 		}
 		if strings.HasPrefix(s, ":source: ") {
-			url = strings.TrimPrefix(s, ":source: ")
+			l.Url = strings.TrimPrefix(s, ":source: ")
 		}
 		return s
 	})
 	if err != nil {
 		panic(err)
 	}
-	return
 }
 
 func (l productList) CreateFinalProductRstFiles() {
@@ -107,6 +106,6 @@ func main() {
 	list := productList{
 		RstPath: "../../content/pages/en/product/conduit-pipe/list.rst",
 	}
-	list.Url, list.Title = getParentUrlTitle(list.RstPath)
+	list.SetUrlTitle()
 	handleProductList(list)
 }
