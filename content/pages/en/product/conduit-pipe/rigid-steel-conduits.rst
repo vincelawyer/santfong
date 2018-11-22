@@ -1,6 +1,6 @@
 :title: RIGID STEEL CONDUITS CNS2606&ANSI80.1
 :slug: rigid-steel-conduits
-:tags: product, CONDUIT PIPE
+:tags: product, conduit-pipe
 :summary: RIGID STEEL CONDUITS CNS2606&ANSI80.1 - CONDUIT PIPE
 :lang: en
 :status: hidden

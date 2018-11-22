@@ -1,6 +1,6 @@
 :title: EMT RIGID STEEL CONDUTS
 :slug: emt-rigid-steel-conduts
-:tags: product, CONDUIT PIPE
+:tags: product, conduit-pipe
 :summary: EMT RIGID STEEL CONDUTS - CONDUIT PIPE
 :lang: en
 :status: hidden

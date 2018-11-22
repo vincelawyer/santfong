@@ -38,9 +38,10 @@ func (l productList) CreateFinalProductRstFiles() {
 	for _, item := range l.Items {
 		ogImg := getRstImagePath(item.ImageSrcs[0])
 
+		tags := "product, " + titleToSlug(l.Title)
+		summary := item.Title + " - " + l.Title
 		s := rstMeta(item.Title, titleToSlug(item.Title),
-			"product, "+l.Title,
-			item.Title+" - "+l.Title,
+			tags, summary,
 			"en", "", item.Href, ogImg)
 		targetPath := getFinalProductRstPath(l.RstPath, item.Title)
 		fmt.Println(s)
