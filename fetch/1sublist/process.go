@@ -33,7 +33,7 @@ func getProductItemData(list productList, tr *goquery.Selection) productList {
 	return list
 }
 
-func getProductListData(list productList) {
+func getProductListData(list productList) productList {
 	fmt.Println(list.Url)
 
 	// convert URL from big5 to utf8
@@ -49,6 +49,14 @@ func getProductListData(list productList) {
 		list = getProductItemData(list, tr)
 	})
 
+	return list
+}
+
+func main() {
+	list := newProductList("../../content/pages/en/product/conduit-pipe/list.rst")
+
+	list = getProductListData(list)
+
 	rstAll := list.OgImageRst() + "\n\n"
 	for _, item := range list.Items {
 		rstAll += item.ToRstList()
@@ -56,9 +64,4 @@ func getProductListData(list productList) {
 	AppendStringToFile(list.RstPath, rstAll)
 
 	list.CreateFinalProductRstFiles()
-}
-
-func main() {
-	list := newProductList("../../content/pages/en/product/conduit-pipe/list.rst")
-	getProductListData(list)
 }
