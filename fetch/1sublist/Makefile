@@ -24,6 +24,9 @@ test: fmt
 run:
 	cd ../.. ; make
 
+checkout_content:
+	git checkout ../../content/
+
 install:
 	go get -u github.com/mozillazg/go-pinyin
 	go get -u github.com/PuerkitoBio/goquery

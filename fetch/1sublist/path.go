@@ -55,3 +55,7 @@ func getFinalProductRstPath(parentRstPath, title string) string {
 	dir := path.Dir(parentRstPath)
 	return path.Join(dir, titleToSlug(title)+".rst")
 }
+
+func getChineseRstPath(rstpath string) string {
+	return strings.Replace(rstpath, "/en/", "/zh/", 1)
+}

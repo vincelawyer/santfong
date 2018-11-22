@@ -58,22 +58,32 @@ func processTr(parentUrl, parentTitle, parentRstPath string, tr *goquery.Selecti
 	return
 }
 
-func main() {
-	rstpath := "../../content/pages/en/product/conduit-pipe/list.rst"
-
+func handleProductList(rstpath string) {
 	parentUrl, parentTitle := getParentUrlTitle(rstpath)
 	fmt.Println(parentUrl)
 
+	// convert URL from big5 to utf8
 	doc, err := NewDocumentFromNonUtf8Url(parentUrl, "big5")
 	if err != nil {
 		panic(err)
 	}
 
+	// get links of final product
 	rstAll := ""
 	table := doc.Find("#AutoNumber3").First()
+	// one iteration get one link of final product
 	table.Find("tr").Each(func(_ int, tr *goquery.Selection) {
 		rstAll += processTr(parentUrl, parentTitle, rstpath, tr)
 	})
+
+	// add og:image metadata
 	rstAll = sublistOgImage + "\n\n" + rstAll
+
+	// append rst back to en product list
 	AppendStringToFile(rstpath, rstAll)
+}
+
+func main() {
+	rstpath := "../../content/pages/en/product/conduit-pipe/list.rst"
+	handleProductList(rstpath)
 }
