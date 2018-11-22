@@ -49,6 +49,10 @@ func (l productList) CreateFinalProductRstFiles() {
 	}
 }
 
+func (l productList) OgImageRst() string {
+	return ":og_image: " + getRstImagePath(l.Items[0].ImageSrcs[0])
+}
+
 func newProductList(rstpath string) productList {
 	list := productList{
 		RstPath: rstpath,

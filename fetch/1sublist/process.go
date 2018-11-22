@@ -49,8 +49,7 @@ func handleProductList(list productList) {
 		list = processTr(list, tr)
 	})
 
-	listOgImage := ":og_image: " + getRstImagePath(list.Items[0].ImageSrcs[0])
-	rstAll := listOgImage + "\n\n"
+	rstAll := list.OgImageRst() + "\n\n"
 	for _, item := range list.Items {
 		rstAll += item.ToRstList()
 	}
