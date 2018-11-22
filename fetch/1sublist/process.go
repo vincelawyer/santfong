@@ -38,19 +38,22 @@ func getParentUrlTitle(rstpath string) (url, title string) {
 	return
 }
 
-func createFinalProductRst(parentTitle, parentRstPath, title, href, src string) {
-	ogImg := getRstImagePath(src)
-	s := rstMeta(title, titleToSlug(title),
-		"product, "+parentTitle,
-		title+" - "+parentTitle,
-		"en", "", href, ogImg)
-	targetPath := getFinalProductRstPath(parentRstPath, title)
-	fmt.Print(s)
-	writeToFile(targetPath, s)
+func (l productList) CreateFinalProductRstFiles() {
+	for _, item := range l.Items {
+		ogImg := getRstImagePath(item.ImageSrcs[0])
+
+		s := rstMeta(item.Title, titleToSlug(item.Title),
+			"product, "+l.Title,
+			item.Title+" - "+l.Title,
+			"en", "", item.Href, ogImg)
+		targetPath := getFinalProductRstPath(l.RstPath, item.Title)
+		fmt.Print(s)
+		writeToFile(targetPath, s)
+	}
 }
 
 // Get info of one final product
-func processTr(list productList, tr *goquery.Selection) (rst string) {
+func processTr(list productList, tr *goquery.Selection) productList {
 	item := productItem{}
 
 	// get title of the final product
@@ -68,17 +71,11 @@ func processTr(list productList, tr *goquery.Selection) (rst string) {
 	src, ok := img.Attr("src")
 	if ok {
 		item.ImageSrcs = append(item.ImageSrcs, fullUrl(list.Url, src))
-		src = fullUrl(list.Url, src)
-		downloadImage(src)
+		downloadImage(fullUrl(list.Url, src))
 	}
 
-	if sublistOgImage == "" {
-		sublistOgImage = ":og_image: " + getRstImagePath(src)
-	}
-
-	rst = item.ToRstList()
-	createFinalProductRst(list.Title, list.RstPath, item.Title, item.Href, src)
-	return
+	list.Items = append(list.Items, item)
+	return list
 }
 
 func handleProductList(list productList) {
@@ -91,18 +88,28 @@ func handleProductList(list productList) {
 	}
 
 	// get links of final product
-	rstAll := ""
 	table := doc.Find("#AutoNumber3").First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(_ int, tr *goquery.Selection) {
-		rstAll += processTr(list, tr)
+		list = processTr(list, tr)
 	})
 
-	// add og:image metadata
-	rstAll = sublistOgImage + "\n\n" + rstAll
+	/*
+		if sublistOgImage == "" {
+			sublistOgImage = ":og_image: " + getRstImagePath(src)
+		}
+		// add og:image metadata
+		rstAll = sublistOgImage + "\n\n" + rstAll
+	*/
 
+	rstAll := ""
+	for _, item := range list.Items {
+		rstAll += item.ToRstList()
+	}
 	// append rst back to en product list
 	AppendStringToFile(list.RstPath, rstAll)
+
+	list.CreateFinalProductRstFiles()
 }
 
 func main() {
