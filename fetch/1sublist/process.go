@@ -68,7 +68,9 @@ func main() {
 
 	enlist := newProductList(enrstpath)
 	enlist = getProductListData(enlist)
-	writeAll(enlist)
+	//writeAll(enlist)
 
-	fmt.Println(zhrstpath)
+	zhlist := newProductList(zhrstpath)
+	zhlist = getProductListData(zhlist)
+	fmt.Println(zhlist)
 }
