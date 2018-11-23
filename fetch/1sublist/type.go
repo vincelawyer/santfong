@@ -42,12 +42,27 @@ func (l productList) CreateFinalProductRstFiles() {
 	for _, item := range l.Items {
 		ogImg := getRstImagePath(item.ImageSrcs[0])
 
-		tags := "product, " + titleToSlug(l.Title)
-		summary := item.Title + " - " + l.Title
-		s := rstMeta(item.Title, titleToSlug(item.Title),
-			tags, summary,
-			"en", "", item.Href, ogImg)
-		targetPath := getFinalProductRstPath(l.RstPath, item.Title)
+		var tags, summary, slug, lang string
+		if item.EnTitle == "" {
+			tags = "product, " + titleToSlug(l.Title)
+			summary = item.Title + " - " + l.Title
+			slug = titleToSlug(item.Title)
+			lang = "en"
+		} else {
+			tags = "product, 產品, " + titleToSlug(l.EnTitle)
+			summary = fmt.Sprintf("%s (%s) - %s (%s)", item.Title, item.EnTitle, l.Title, l.EnTitle)
+			slug = titleToSlug(item.EnTitle)
+			lang = "zh"
+		}
+
+		s := rstMeta(item.Title, slug, tags, summary,
+			lang, "", item.Href, ogImg)
+		targetPath := ""
+		if item.EnTitle == "" {
+			targetPath = getFinalProductRstPath(l.RstPath, item.Title)
+		} else {
+			targetPath = getFinalProductRstPath(l.RstPath, item.EnTitle)
+		}
 		fmt.Println(s)
 		writeToFile(targetPath, s)
 	}

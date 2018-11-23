@@ -68,10 +68,11 @@ func main() {
 
 	enlist := newProductList(enrstpath)
 	enlist = getProductListData(enlist)
-	//writeAll(enlist)
+	writeAll(enlist)
 
 	zhlist := newProductList(zhrstpath)
 	zhlist = getProductListData(zhlist)
 	zhlist.SetEnglishTitle(enlist)
 	fmt.Println(zhlist)
+	writeAll(zhlist)
 }

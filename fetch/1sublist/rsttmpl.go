@@ -29,7 +29,14 @@ func rstMeta(title, slug, tags, summary, lang, order, source, ogImage string) st
 
 func (i productItem) ToRstList() (rst string) {
 	rst += "\n"
-	rst += fmt.Sprintf("- `%s <%s>`_\n", i.Title, getRstFinalProductLocalLink(i.Title))
+
+	frstpath := ""
+	if i.EnTitle == "" {
+		frstpath = getRstFinalProductLocalLink(i.Title)
+	} else {
+		frstpath = getRstFinalProductLocalLink(i.EnTitle)
+	}
+	rst += fmt.Sprintf("- `%s <%s>`_\n", i.Title, frstpath)
 
 	for _, imgUrl := range i.ImageSrcs {
 		rst += "\n"
