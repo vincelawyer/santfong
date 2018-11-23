@@ -72,5 +72,6 @@ func main() {
 
 	zhlist := newProductList(zhrstpath)
 	zhlist = getProductListData(zhlist)
+	zhlist.SetEnglishTitle(enlist)
 	fmt.Println(zhlist)
 }

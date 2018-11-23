@@ -9,6 +9,8 @@ type productItem struct {
 	Title     string
 	Href      string
 	ImageSrcs []string
+
+	EnTitle string // English title, used for Chinese page
 }
 
 type productList struct {
@@ -16,6 +18,8 @@ type productList struct {
 	Title   string
 	Url     string
 	Items   []productItem
+
+	EnTitle string // English title, used for Chinese page
 }
 
 func (l *productList) SetUrlTitle() {
@@ -51,6 +55,14 @@ func (l productList) CreateFinalProductRstFiles() {
 
 func (l productList) OgImageRst() string {
 	return ":og_image: " + getRstImagePath(l.Items[0].ImageSrcs[0])
+}
+
+func (l *productList) SetEnglishTitle(enlist productList) {
+	l.EnTitle = enlist.Title
+
+	for i, item := range enlist.Items {
+		l.Items[i].EnTitle = item.Title
+	}
 }
 
 func newProductList(rstpath string) productList {
