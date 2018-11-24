@@ -53,11 +53,11 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="246"]`).First()
+	table := doc.Find(`table[height="224"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		//fmt.Println(i, "@@@")
-		if i%2 == 0 && i < 9 {
+		if i%2 == 0 && i < 3 {
 			list = getProductItemData(list, tr)
 		}
 	})
@@ -76,7 +76,7 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/flame-proof-control-switch-plug-socket/list.rst"
+	enrstpath := "../../content/pages/en/product/grounding-fittings/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
