@@ -1,11 +1,20 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
 )
+
+func PrettyPrint(v interface{}) (err error) {
+	b, err := json.MarshalIndent(v, "", "  ")
+	if err == nil {
+		fmt.Println(string(b))
+	}
+	return
+}
 
 // Get info of one final product
 func getProductItemData(list productList, tr *goquery.Selection) productList {
@@ -21,13 +30,14 @@ func getProductItemData(list productList, tr *goquery.Selection) productList {
 		item.Href = fullUrl(list.Url, href)
 	}
 
-	// get image link of the final product
-	img := tr.Find("img").First()
-	src, ok := img.Attr("src")
-	if ok {
-		item.ImageSrcs = append(item.ImageSrcs, fullUrl(list.Url, src))
-		downloadImage(fullUrl(list.Url, src))
-	}
+	// get image links of the final product
+	tr.Find("img").Each(func(_ int, img *goquery.Selection) {
+		src, ok := img.Attr("src")
+		if ok {
+			item.ImageSrcs = append(item.ImageSrcs, fullUrl(list.Url, src))
+			downloadImage(fullUrl(list.Url, src))
+		}
+	})
 
 	list.Items = append(list.Items, item)
 	return list
@@ -43,9 +53,12 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find("#AutoNumber3").First()
+	table := doc.Find(`table[height="215"]`).First()
 	// one iteration get the link of one final product
-	table.Find("tr").Each(func(_ int, tr *goquery.Selection) {
+	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
+		if i == 3 {
+			return
+		}
 		list = getProductItemData(list, tr)
 	})
 
@@ -63,16 +76,17 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/conduit-pipe/list.rst"
+	enrstpath := "../../content/pages/en/product/concrete-anchor-system-hardware-fittings/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
 	enlist = getProductListData(enlist)
+	PrettyPrint(enlist)
 	writeAll(enlist)
 
 	zhlist := newProductList(zhrstpath)
 	zhlist = getProductListData(zhlist)
 	zhlist.SetEnglishTitle(enlist)
-	fmt.Println(zhlist)
+	PrettyPrint(zhlist)
 	writeAll(zhlist)
 }
