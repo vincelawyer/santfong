@@ -23,9 +23,6 @@ func getProductItemData(list productList, tr *goquery.Selection) productList {
 	// get title of the final product
 	a := tr.Find("a").First()
 	item.Title = strings.TrimSpace(TrimSpaceNewlineInString(a.Text()))
-	if item.Title == "SEALING COMPOUND \u0026 FIBER CHICO X  DUCT SEALING COMPOUND" {
-		item.Title = "SEALING COMPOUND \u0026 FIBER CHICO X DUCT SEALING COMPOUND"
-	}
 
 	// get url of the final product
 	href, ok := a.Attr("href")
@@ -56,11 +53,11 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="278"]`).First()
+	table := doc.Find(`table[height="213"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
-		//fmt.Println(i, "@@@")
-		if i == 1 || i == 3 {
+		fmt.Println(i, "@@@")
+		if i%2 == 0 {
 			list = getProductItemData(list, tr)
 		}
 	})
@@ -79,16 +76,16 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/electric-surface-compound-wire-pulling-sealing-compound/list.rst"
+	enrstpath := "../../content/pages/en/product/flame-proof-explosion-protected-pull-boxes/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
-	enlist = getProductListData(enlist)
+	enlist = getProductListData7(enlist)
 	PrettyPrint(enlist)
 	writeAll(enlist)
 
 	zhlist := newProductList(zhrstpath)
-	zhlist = getProductListData(zhlist)
+	zhlist = getProductListData7(zhlist)
 	zhlist.SetEnglishTitle(enlist)
 	PrettyPrint(zhlist)
 	writeAll(zhlist)
