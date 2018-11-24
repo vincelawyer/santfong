@@ -1,0 +1,8 @@
+:title: 防水金屬軟管
+:slug: cr-type-apn-type
+:tags: product, 產品, flexible-metal-conduit
+:summary: 防水金屬軟管 (CR TYPE & APN TYPE) - 電線電纜保護用軟管 (FLEXIBLE METAL CONDUIT)
+:lang: zh
+:status: hidden
+:source: http://shenfang.com.tw/016/1.htm
+:og_image: {filename}/images/016/images/cr.jpg
