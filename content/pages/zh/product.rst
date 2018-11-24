@@ -174,7 +174,7 @@
      :name: http://shenfang.com.tw/09/images/WT.JPG
      :alt: product
      :class: product-image-thumbnail
-- `防爆燈具 / EXPLOSIONPROOS LUMINAIRE <{filename}product/explosionproos-luminaire/list.rst>`_
+- `防爆燈具 / EXPLOSION PROOF LUMINAIRE <{filename}product/explosion-proof-luminaire/list.rst>`_
 
   .. image:: {filename}/images/022/images/xinziliaojia-20-2-/sfw-n1.jpg
      :name: http://shenfang.com.tw/022/images/新資料夾%20(2)/SFW-N1.JPG
