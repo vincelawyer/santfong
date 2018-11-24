@@ -9,7 +9,7 @@ import (
 var imgRootDir = "../../content/images"
 
 func checkPath(p string) {
-	re := regexp.MustCompile("[a-z0-9-/.]+")
+	re := regexp.MustCompile("[a-z0-9-/._]+")
 	pp := re.ReplaceAllString(p, "")
 	if pp != "" {
 		panic(pp)
