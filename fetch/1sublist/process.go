@@ -17,17 +17,14 @@ func PrettyPrint(v interface{}) (err error) {
 }
 
 // Get info of one final product
-func getProductItemData(list productList, tr *goquery.Selection) productList {
+func getProductItemData(list productList, tr *goquery.Selection, itr int) productList {
 	item := productItem{}
 
 	// get title of the final product
 	a := tr.Find("a").First()
 	item.Title = strings.TrimSpace(TrimSpaceNewlineInString(a.Text()))
-	if item.Title == "EYD TYPE\n          ; EYDM" {
-		item.Title = "EYD TYPE ; EYDM TYPE"
-	}
-	if item.Title == "YZ TYPE ; YZM  TYPE" {
-		item.Title = "YZ TYPE ; YZM TYPE"
+	if itr == 2 && item.Title == "FORGED PIPE FITTINGS THREADED" {
+		item.Title += " 2"
 	}
 
 	// get url of the final product
@@ -59,11 +56,13 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="186"]`).First()
+	table := doc.Find(`table[height="223"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		//fmt.Println(i, "@@@")
-		list = getProductItemData(list, tr)
+		if i == 0 || i == 2 || i == 4 {
+			list = getProductItemData(list, tr, i)
+		}
 	})
 
 	return list
@@ -80,7 +79,7 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/sealing-fittings/list.rst"
+	enrstpath := "../../content/pages/en/product/forged-pipe-fittings/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)

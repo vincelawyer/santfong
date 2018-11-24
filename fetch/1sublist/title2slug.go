@@ -6,7 +6,7 @@ import (
 )
 
 func checkSlug(s string) {
-	re := regexp.MustCompile("[a-z-]+")
+	re := regexp.MustCompile("[a-z-2]+")
 	if re.ReplaceAllString(s, "") != "" {
 		panic("bad slug: " + s)
 	}
