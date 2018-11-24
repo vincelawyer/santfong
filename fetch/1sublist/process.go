@@ -23,6 +23,12 @@ func getProductItemData(list productList, tr *goquery.Selection) productList {
 	// get title of the final product
 	a := tr.Find("a").First()
 	item.Title = strings.TrimSpace(TrimSpaceNewlineInString(a.Text()))
+	if item.Title == "EYD TYPE\n          ; EYDM" {
+		item.Title = "EYD TYPE ; EYDM TYPE"
+	}
+	if item.Title == "YZ TYPE ; YZM  TYPE" {
+		item.Title = "YZ TYPE ; YZM TYPE"
+	}
 
 	// get url of the final product
 	href, ok := a.Attr("href")
@@ -53,13 +59,11 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="223"]`).First()
+	table := doc.Find(`table[height="186"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		//fmt.Println(i, "@@@")
-		if i == 0 || i == 2 {
-			list = getProductItemData(list, tr)
-		}
+		list = getProductItemData(list, tr)
 	})
 
 	return list
@@ -76,7 +80,7 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/flexible-conduit-wiring-accessories/list.rst"
+	enrstpath := "../../content/pages/en/product/sealing-fittings/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
