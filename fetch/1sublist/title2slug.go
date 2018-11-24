@@ -6,7 +6,7 @@ import (
 )
 
 func checkSlug(s string) {
-	re := regexp.MustCompile("[a-z-2]+")
+	re := regexp.MustCompile("[0-9a-z-]+")
 	if re.ReplaceAllString(s, "") != "" {
 		panic("bad slug: " + s)
 	}
@@ -20,6 +20,7 @@ func titleToSlug(s string) (slug string) {
 	slug = strings.ToLower(slug)
 
 	slug = strings.Replace(slug, " ; ", "-", -1)
+	slug = strings.Replace(slug, "°", "", -1)
 
 	patterns := []string{` *& *`, ` *、 *`, " +"}
 	for _, pattern := range patterns {
