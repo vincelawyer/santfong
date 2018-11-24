@@ -19,6 +19,8 @@ func titleToSlug(s string) (slug string) {
 	slug = strings.TrimSpace(slug)
 	slug = strings.ToLower(slug)
 
+	slug = strings.Replace(slug, " ; ", "-", -1)
+
 	patterns := []string{` *& *`, ` *、 *`, " +"}
 	for _, pattern := range patterns {
 		re := regexp.MustCompile(pattern)
