@@ -53,10 +53,13 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="160"]`).First()
+	table := doc.Find(`table[height="269"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
-		list = getProductItemData(list, tr)
+		fmt.Println(i, "@@@")
+		if i == 0 || i == 2 || i == 5 || i == 7 || i == 9 {
+			list = getProductItemData(list, tr)
+		}
 	})
 
 	return list
@@ -73,16 +76,16 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/explosion-proof-round-outlet-boxes/list.rst"
+	enrstpath := "../../content/pages/en/product/connectors-for-flexible-metal-conduit/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
-	enlist = getProductListData5(enlist)
+	enlist = getProductListData(enlist)
 	PrettyPrint(enlist)
 	writeAll(enlist)
 
 	zhlist := newProductList(zhrstpath)
-	zhlist = getProductListData5(zhlist)
+	zhlist = getProductListData(zhlist)
 	zhlist.SetEnglishTitle(enlist)
 	PrettyPrint(zhlist)
 	writeAll(zhlist)
