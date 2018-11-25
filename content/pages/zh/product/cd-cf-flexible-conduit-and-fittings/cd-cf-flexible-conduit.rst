@@ -1,26 +1,29 @@
-:title: CD管 & PF管
+:title: CD管 & PF管 (CD、CF FLEXIBLE CONDUIT)
 :slug: cd-cf-flexible-conduit
 :tags: product, 產品, 
-:summary: CD管 & PF管 (CD、CF FLEXIBLE CONDUIT) - CD、CF管及管配件 ()
+:summary: CD、CF管及管配件 (CD、CF FLEXIBLE CONDUIT AND FITTINGS)
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/018/1.htm
 :og_image: {filename}/images/018/images/cdguan-3.jpg
 
 
-CD、CF管及管配件 (CD、CF FLEXIBLE CONDUIT AND FITTINGS)
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+.. contents:: CD管 & PF管 (CD、CF FLEXIBLE CONDUIT)
+
+----
 
 CD 管
-=====
++++++
 
 .. image:: {filename}/images/018/images/cdguan-3.jpg
    :name: http://shenfang.com.tw/018/IMAGES/CD管-3.JPG
    :alt: product
    :class: img-fluid
 
+----
+
 PF 管
-=====
++++++
 
 .. image:: {filename}/images/018/images/pf.jpg
    :name: http://shenfang.com.tw/018/IMAGES/PF.JPG
@@ -28,6 +31,9 @@ PF 管
    :class: img-fluid
 
 ----
+
+產品特點
+++++++++
 
 - 每卷長度:1/2",3/4"管為50M;1"管以上為30M
 
@@ -44,6 +50,9 @@ PF 管
 - 品質安定,施工時產生的廢料少,廢料品再回收加工使用,符合環保
 
 ----
+
+產品規格表
+++++++++++
 
 單位:±3mm
 
