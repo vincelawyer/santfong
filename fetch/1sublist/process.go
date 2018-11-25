@@ -57,13 +57,13 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="229"]`).First()
+	table := doc.Find(`table[height="269"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		fmt.Println(i, "@@@")
-		//if i < 8 {
-		list = getProductItemData(list, tr)
-		//}
+		if i%2 == 0 && i < 3 {
+			list = getProductItemData(list, tr)
+		}
 	})
 
 	return list
@@ -79,7 +79,7 @@ func writeAll(list productList) {
 	list.CreateFinalProductRstFiles()
 }
 
-func main() {
+func parseEnZh() {
 	enrstpath := "../../content/pages/en/product/cable-duct/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
@@ -104,4 +104,15 @@ func main() {
 		PrettyPrint(zhlist)
 		writeAll(zhlist)
 	*/
+}
+
+func main() {
+	zhrstpath := "../../content/pages/zh/product/cd-cf-flexible-conduit-and-fittings/list.rst"
+	zhlist := newProductList(zhrstpath)
+	zhlist = getProductListData(zhlist)
+
+	zhlist.Items[0].EnTitle = "CD、CF FLEXIBLE CONDUIT"
+	zhlist.Items[1].EnTitle = "CD、CF FLEXIBLE CONDUIT AND FITTINGS"
+	PrettyPrint(zhlist)
+	writeAll(zhlist)
 }
