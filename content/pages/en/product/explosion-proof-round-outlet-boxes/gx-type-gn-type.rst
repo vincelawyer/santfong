@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/04/3-1.htm
-:og_image: {filename}/images/04/images/gx.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/04/images/gx.jpg

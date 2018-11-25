@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/011/3.htm
-:og_image: {filename}/images/011/images/quanyaluogan3.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/011/images/quanyaluogan3.jpg

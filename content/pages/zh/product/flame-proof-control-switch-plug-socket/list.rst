@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/022/d1.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/sfe-mp1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/sfe-mp1.jpg
 
 
 - `防爆型開關箱(盒) 、 操作箱 <{filename}sfe-mp1-sfe-n1-sfe-n2.rst>`_

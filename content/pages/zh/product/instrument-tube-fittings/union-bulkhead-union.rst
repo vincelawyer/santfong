@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/021/2.htm
-:og_image: {filename}/images/021/images/u.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/021/images/u.jpg

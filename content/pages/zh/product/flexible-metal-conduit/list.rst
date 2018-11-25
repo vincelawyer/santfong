@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/016/d.htm
-:og_image: {filename}/images/016/images/cr.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/016/images/cr.jpg
 
 
 - `防水金屬軟管 <{filename}cr-type-apn-type.rst>`_

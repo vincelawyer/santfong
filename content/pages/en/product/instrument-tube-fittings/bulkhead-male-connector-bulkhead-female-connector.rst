@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/021/3-1.htm
-:og_image: {filename}/images/021/images/bmc.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/021/images/bmc.jpg

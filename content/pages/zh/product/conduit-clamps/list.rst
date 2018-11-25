@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/013/d.htm
-:og_image: {filename}/images/013/images/ucb.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/013/images/ucb.jpg
 
 
 - `P型管束 <{filename}ucb-type.rst>`_

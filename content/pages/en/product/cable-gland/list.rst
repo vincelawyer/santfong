@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/08/d-1.htm
-:og_image: {filename}/images/08/images/cgb.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/08/images/cgb.jpg
 
 
 - `CABLE GLAND CGB TYPE & CGS TYEP <{filename}cable-gland-cgb-type-cgs-tyep.rst>`_

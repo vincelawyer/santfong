@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/014/d.htm
-:og_image: {filename}/images/014/images/tsh2.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/014/images/tsh2.jpg
 
 
 - `膨脹螺絲 <{filename}concrete-anchor-system.rst>`_

@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/022/d3-1.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/smg-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/smg-1.jpg
 
 
 - `FLAME-PROOF EXPLOSION-PROTECTED PULLBOXES 1 <{filename}flame-proof-explosion-protected-pullboxes-1.rst>`_

@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/014/1-1.htm
-:og_image: {filename}/images/014/images/tsh2.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/014/images/tsh2.jpg

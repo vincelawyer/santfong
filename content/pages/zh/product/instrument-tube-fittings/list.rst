@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/021/d.htm
-:og_image: {filename}/images/021/images/mc.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/021/images/mc.jpg
 
 
 - `外牙直接頭 MC <{filename}male-connector.rst>`_

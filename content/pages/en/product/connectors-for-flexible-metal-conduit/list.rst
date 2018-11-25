@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/017/d-1.htm
-:og_image: {filename}/images/017/images/nbg-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/017/images/nbg-1.jpg
 
 
 - `NBG、 NUG、NEG、NAG TYPE <{filename}nbg-nug-neg-nag-type.rst>`_

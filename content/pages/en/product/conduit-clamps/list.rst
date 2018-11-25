@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/013/d-1.htm
-:og_image: {filename}/images/013/images/ucb.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/013/images/ucb.jpg
 
 
 - `UCB TYPE <{filename}ucb-type.rst>`_

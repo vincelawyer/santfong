@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/023/d.htm
-:og_image: {filename}/images/023/images/xinziliaojia-20-2-/108-2.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/023/images/xinziliaojia-20-2-/108-2.jpg
 
 
 - `電纜線架型式 TABLE OF AVAILABLE CABLE TRAYS <{filename}table-of-available-cable-trays.rst>`_

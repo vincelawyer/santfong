@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/022/11.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/sfe-nl1-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/sfe-nl1-1.jpg

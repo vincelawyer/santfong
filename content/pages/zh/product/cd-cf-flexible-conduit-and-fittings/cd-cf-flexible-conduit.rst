@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/018/1.htm
-:og_image: {filename}/images/018/images/cdguan-3.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/018/images/cdguan-3.jpg
 
 
 .. contents:: CD管 & PF管 (CD、CF FLEXIBLE CONDUIT)

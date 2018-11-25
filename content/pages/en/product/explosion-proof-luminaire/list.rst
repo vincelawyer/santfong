@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/022/d2-1.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/sfw-n1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/sfw-n1.jpg
 
 
 - `SFW-N1 & SFW-N2 & SFW-N3 <{filename}sfw-n1-sfw-n2-sfw-n3.rst>`_

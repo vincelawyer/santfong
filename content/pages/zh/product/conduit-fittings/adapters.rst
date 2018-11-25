@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/6.htm
-:og_image: {filename}/images/07/images/fre-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/07/images/fre-1.jpg

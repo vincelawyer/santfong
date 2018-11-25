@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/01/d.htm
-:og_image: {filename}/images/01/images/tieguan.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/01/images/tieguan.jpg
 
 
 - `配電電管 <{filename}rigid-steel-conduits.rst>`_

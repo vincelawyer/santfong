@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/022/d1-1.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/sfe-mp1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/sfe-mp1.jpg
 
 
 - `SFE-MP1 & SFE-N1 & SFE-N2 <{filename}sfe-mp1-sfe-n1-sfe-n2.rst>`_

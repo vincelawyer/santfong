@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/03/d.htm
-:og_image: {filename}/images/03/images/fl.gif
+:og_image: https://vincelawyer.github.io/santfong/images/03/images/fl.gif
 
 
 - `TYPE : FL型 ; FR 型 <{filename}fl-type-fr-type.rst>`_

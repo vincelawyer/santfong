@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/017/2.htm
-:og_image: {filename}/images/017/images/kbg-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/017/images/kbg-1.jpg

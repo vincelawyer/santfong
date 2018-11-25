@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/010/d.htm
-:og_image: {filename}/images/010/images/daodiangao.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/010/images/daodiangao.jpg
 
 
 - `導電膏 & 拉線膏 <{filename}kopr-shield-for-metal-surfaces-wire-pulling-compound.rst>`_

@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/019/2.htm
-:og_image: {filename}/images/019/images/main_sum.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/019/images/main_sum.jpg

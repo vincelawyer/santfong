@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/015/1.htm
-:og_image: {filename}/images/015/images/danlian.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/015/images/danlian.jpg

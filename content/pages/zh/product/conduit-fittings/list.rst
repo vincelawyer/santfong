@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/d.htm
-:og_image: {filename}/images/07/images/el.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/07/images/el.jpg
 
 
 - `90°彎頭& 45°彎頭 <{filename}90-elbows-45-elbows.rst>`_

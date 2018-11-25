@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/023/14-1.htm
-:og_image: {filename}/images/023/images/xinziliaojia/90chuizhixiajiangjietou-xianjia.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/023/images/xinziliaojia/90chuizhixiajiangjietou-xianjia.jpg

@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/08/d.htm
-:og_image: {filename}/images/08/images/cgb.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/08/images/cgb.jpg
 
 
 - `電纜固定頭 & 船用電纜固定頭 <{filename}cable-gland-cgb-type-cgs-tyep.rst>`_

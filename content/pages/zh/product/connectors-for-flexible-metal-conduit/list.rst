@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/017/d.htm
-:og_image: {filename}/images/017/images/nbg-1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/017/images/nbg-1.jpg
 
 
 - `防水軟管用接頭 <{filename}nbg-nug-neg-nag-type.rst>`_

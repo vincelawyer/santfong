@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/06/d.htm
-:og_image: {filename}/images/06/images/eys.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/06/images/eys.jpg
 
 
 - `TYPE : EYS型 ; EYM  型 <{filename}eys-type-eym-type.rst>`_

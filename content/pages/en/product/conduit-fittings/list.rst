@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/07/d-1.htm
-:og_image: {filename}/images/07/images/el.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/07/images/el.jpg
 
 
 - `90° ELBOWS & 45° ELBOWS <{filename}90-elbows-45-elbows.rst>`_

@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/022/d2.htm
-:og_image: {filename}/images/022/images/xinziliaojia-20-2-/sfw-n1.jpg
+:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/sfw-n1.jpg
 
 
 - `安全增防爆型水銀燈 、 透視燈 <{filename}sfw-n1-sfw-n2-sfw-n3.rst>`_
