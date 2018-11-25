@@ -53,11 +53,11 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="237"]`).First()
+	table := doc.Find(`table[height="340"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		fmt.Println(i, "@@@")
-		if i%2 == 0 {
+		if i < 8 {
 			list = getProductItemData(list, tr)
 		}
 	})
@@ -76,27 +76,17 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/cable-trays/list.rst"
+	enrstpath := "../../content/pages/en/product/conduit-clamps/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
-	enlist := LoadCABLETRAYSJSON()
+
+	enlist := newProductList(enrstpath)
+	enlist = getProductListData(enlist)
 	PrettyPrint(enlist)
-	zhlist := newProductList(zhrstpath)
-	zhlist = getProductListData9(zhlist)
-	zhlist = SetCABLETRAYSChinese(enlist, zhlist)
-	PrettyPrint(zhlist)
 	writeAll(enlist)
+
+	zhlist := newProductList(zhrstpath)
+	zhlist = getProductListData(zhlist)
+	zhlist.SetEnglishTitle(enlist)
+	PrettyPrint(zhlist)
 	writeAll(zhlist)
-
-	/*
-		enlist := newProductList(enrstpath)
-		enlist = getProductListData9(enlist)
-		PrettyPrint(enlist)
-		writeAll(enlist)
-
-		zhlist := newProductList(zhrstpath)
-		zhlist = getProductListData9(zhlist)
-		zhlist.SetEnglishTitle(enlist)
-		PrettyPrint(zhlist)
-		writeAll(zhlist)
-	*/
 }
