@@ -5,6 +5,7 @@
 :lang: zh
 :order: 3
 :source: http://shenfang.com.tw/con1t.htm
+:og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
 
 
 | Santfong實業股份有限公司

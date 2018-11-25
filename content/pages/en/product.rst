@@ -5,6 +5,7 @@
 :lang: en
 :order: 2
 :source: http://shenfang.com.tw/product-1.htm
+:og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
 
 
 - `CONDUIT PIPE <{filename}product/conduit-pipe/list.rst>`_

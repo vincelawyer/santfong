@@ -5,6 +5,7 @@
 :lang: zh
 :order: 2
 :source: http://shenfang.com.tw/product.htm
+:og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
 
 
 - `電線導管、EMT無牙導線管 / CONDUIT PIPE <{filename}product/conduit-pipe/list.rst>`_
