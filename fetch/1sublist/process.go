@@ -39,6 +39,10 @@ func getProductItemData(list productList, tr *goquery.Selection) productList {
 		}
 	})
 
+	if item.Title == "" {
+		return list
+	}
+
 	list.Items = append(list.Items, item)
 	return list
 }
@@ -53,13 +57,13 @@ func getProductListData(list productList) productList {
 	}
 
 	// get links of final product
-	table := doc.Find(`table[height="340"]`).First()
+	table := doc.Find(`table[height="229"]`).First()
 	// one iteration get the link of one final product
 	table.Find("tr").Each(func(i int, tr *goquery.Selection) {
 		fmt.Println(i, "@@@")
-		if i < 8 {
-			list = getProductItemData(list, tr)
-		}
+		//if i < 8 {
+		list = getProductItemData(list, tr)
+		//}
 	})
 
 	return list
@@ -76,17 +80,28 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/conduit-clamps/list.rst"
+	enrstpath := "../../content/pages/en/product/cable-duct/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
-	enlist := newProductList(enrstpath)
-	enlist = getProductListData(enlist)
+	enlist := LoadCableDuctJSON()
 	PrettyPrint(enlist)
-	writeAll(enlist)
-
 	zhlist := newProductList(zhrstpath)
 	zhlist = getProductListData(zhlist)
-	zhlist.SetEnglishTitle(enlist)
+	zhlist = SetCableDuctChinese(enlist, zhlist)
 	PrettyPrint(zhlist)
+	writeAll(enlist)
 	writeAll(zhlist)
+
+	/*
+		enlist := newProductList(enrstpath)
+		enlist = getProductListData(enlist)
+		PrettyPrint(enlist)
+		writeAll(enlist)
+
+		zhlist := newProductList(zhrstpath)
+		zhlist = getProductListData(zhlist)
+		zhlist.SetEnglishTitle(enlist)
+		PrettyPrint(zhlist)
+		writeAll(zhlist)
+	*/
 }
