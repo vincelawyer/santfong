@@ -15,7 +15,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `型鋼連結片 <{filename}uni-strut-combinations.rst>`_
+- `型鋼連結片 <{filename}uni-strut-combinations.rst>`__
 
   .. image:: {filename}/images/011/images/xinggangzuhe/c401-1.jpg
      :name: http://shenfang.com.tw/011/images/型鋼組合/C401-1.jpg
@@ -34,7 +34,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `型鋼連結片 <{filename}uni-strut-combinations-2.rst>`_
+- `型鋼連結片 <{filename}uni-strut-combinations-2.rst>`__
 
   .. image:: {filename}/images/011/images/xinggangzuhe/c421-1.jpg
      :name: http://shenfang.com.tw/011/images/型鋼組合/C421-1.jpg

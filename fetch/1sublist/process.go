@@ -84,6 +84,8 @@ func main() {
 	zhlist = getProductListData9(zhlist)
 	zhlist = SetCABLETRAYSChinese(enlist, zhlist)
 	PrettyPrint(zhlist)
+	writeAll(enlist)
+	writeAll(zhlist)
 
 	/*
 		enlist := newProductList(enrstpath)
