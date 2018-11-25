@@ -76,16 +76,16 @@ func writeAll(list productList) {
 }
 
 func main() {
-	enrstpath := "../../content/pages/en/product/flame-proof-explosion-protected-pull-boxes/list.rst"
+	enrstpath := "../../content/pages/en/product/angle-steel-channel-threaded-rod-unistrut-combinations/list.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	enlist := newProductList(enrstpath)
-	enlist = getProductListData7(enlist)
+	enlist = getProductListData8(enlist)
 	PrettyPrint(enlist)
 	writeAll(enlist)
 
 	zhlist := newProductList(zhrstpath)
-	zhlist = getProductListData7(zhlist)
+	zhlist = getProductListData8(zhlist)
 	zhlist.SetEnglishTitle(enlist)
 	PrettyPrint(zhlist)
 	writeAll(zhlist)
