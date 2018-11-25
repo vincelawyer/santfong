@@ -1,3 +1,13 @@
 .product-image-thumbnail {
   height: 50px;
 }
+
+.main-content {
+  ul {
+    li {
+      img.product-image-thumbnail {
+        margin-bottom: 2.5rem;
+      }
+    }
+  }
+}
