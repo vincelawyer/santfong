@@ -112,7 +112,7 @@ func main() {
 	zhlist = getProductListData(zhlist)
 
 	zhlist.Items[0].EnTitle = "CD、CF FLEXIBLE CONDUIT"
-	zhlist.Items[1].EnTitle = "CD、CF FLEXIBLE CONDUIT AND FITTINGS"
+	zhlist.Items[1].EnTitle = "CD、CF FLEXIBLE CONDUIT FITTINGS"
 	PrettyPrint(zhlist)
 	writeAll(zhlist)
 }
