@@ -9,8 +9,12 @@ endif
 
 ALL_GO_SOURCES=$(shell /bin/sh -c "find *.go | grep -v _test.go")
 
+
 image: fmt checkout_content
 	go test -v $(ALL_GO_SOURCES) imagerst_test.go
+
+ogimage: fmt checkout_content
+	go test -v $(ALL_GO_SOURCES) ogimage_test.go
 
 sublist: fmt checkout_content
 	@echo "\033[92mCreate product list and final product rst files...\033[0m"
