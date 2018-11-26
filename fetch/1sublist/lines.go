@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"io"
 	"io/ioutil"
 	"os"
 	"strings"
@@ -51,4 +52,17 @@ func FileToLines(filePath string) (lines []string, err error) {
 
 func WriteLinesToFile(lines []string, filename string) (err error) {
 	return ioutil.WriteFile(filename, []byte(strings.Join(lines, "\n")+"\n"), 0644)
+}
+
+func LinesFromReader(r io.Reader) ([]string, error) {
+	var lines []string
+	scanner := bufio.NewScanner(r)
+	for scanner.Scan() {
+		lines = append(lines, scanner.Text())
+	}
+	if err := scanner.Err(); err != nil {
+		return nil, err
+	}
+
+	return lines, nil
 }

@@ -8,6 +8,21 @@ import (
 	iconv "github.com/djimenez/iconv-go"
 )
 
+func NonUtf8UrlToLines(url, charset string) ([]string, error) {
+	resp, err := http.Get(url)
+	if err != nil {
+		return nil, err
+	}
+	defer resp.Body.Close()
+
+	utfBody, err := iconv.NewReader(resp.Body, charset, "utf-8")
+	if err != nil {
+		return nil, err
+	}
+
+	return LinesFromReader(utfBody)
+}
+
 func NewDocumentFromNonUtf8Url(url, charset string) (doc *goquery.Document, err error) {
 	resp, err := http.Get(url)
 	if err != nil {
