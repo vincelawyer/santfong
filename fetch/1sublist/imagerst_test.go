@@ -6,8 +6,10 @@ import (
 )
 
 func TestGetAllImageRst(t *testing.T) {
-	rstpath := "../../content/pages/zh/product/conduit-pipe/rigid-steel-conduits.rst"
-	url := getUrlInRst(rstpath)
+	enrstpath := "../../content/pages/en/product/conduit-pipe/emt-rigid-steel-conduts.rst"
+	zhrstpath := getChineseRstPath(enrstpath)
+
+	url := getUrlInRst(enrstpath)
 	imgurls := getAllImageUrlFromWebpage(url)
 	rstImgs := createImageRstFromUrl(imgurls)
 
@@ -15,5 +17,10 @@ func TestGetAllImageRst(t *testing.T) {
 	fmt.Println(url)
 	fmt.Println(imgurls)
 	fmt.Println(rstImgs)
-	AppendStringToFile(rstpath, rstImgs)
+	AppendStringToFile(enrstpath, rstImgs)
+
+	zhurl := getUrlInRst(zhrstpath)
+	zhimgurls := getAllImageUrlFromWebpage(zhurl)
+	zhrstImgs := createImageRstFromUrl(zhimgurls)
+	AppendStringToFile(zhrstpath, zhrstImgs)
 }
