@@ -1,12 +1,14 @@
 package main
 
 import (
-	"fmt"
 	"strings"
 )
 
 func isUnitLine(lineno int, line string) bool {
 	if strings.HasPrefix(line, `<p align="right"`) {
+		return true
+	}
+	if strings.Contains(line, "單位") {
 		return true
 	}
 	return false
@@ -42,11 +44,9 @@ func extractTablesHtml(lines []string) (tables []string) {
 
 func createTablesRst(lines []string) (rst string) {
 	tables := extractTablesHtml(lines)
-	//fmt.Println(tables)
-	//fmt.Println(len(tables))
 
 	for _, table := range tables {
-		rst += ".. raw:: html\n\n"
+		rst += "\n\n.. raw:: html\n\n"
 
 		r := strings.NewReader(table)
 		lines2, err := LinesFromReader(r)
@@ -64,12 +64,11 @@ func createTablesRst(lines []string) (rst string) {
 	return
 }
 
-func parseTypeType(url string) {
+func parseTypeType(url string) string {
 	lines, err := NonUtf8UrlToLines(url, "big5")
 	if err != nil {
 		panic(err)
 	}
 
-	rst := createTablesRst(lines)
-	fmt.Println(rst)
+	return createTablesRst(lines)
 }
