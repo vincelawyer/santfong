@@ -79,6 +79,7 @@
      :class: product-image-thumbnail
 
 - `CONDUIT FITTINGS <{filename}product/conduit-fittings/list.rst>`_
+  (`UL LISTED`_)
 
   .. image:: {filename}/images/07/images/bui.jpg
      :name: http://shenfang.com.tw/07/images/BUI.JPG
