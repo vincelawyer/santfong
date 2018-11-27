@@ -21,7 +21,7 @@
      :class: product-image-thumbnail
 
 - `M-F UNIONS & FEMALE UNIONS <{filename}m-f-unions-female-unions.rst>`_
-  (UL_)
+  (`UL LISTED`_)
 
   .. image:: {filename}/images/07/images/uny.gif
      :name: http://shenfang.com.tw/07/images/UNY.gif
@@ -150,7 +150,8 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `UNIVERSAL SERVIT & PULL BOXES <{filename}universal-servit-pull-boxes.rst>`_
+..
+  - `UNIVERSAL SERVIT & PULL BOXES <{filename}universal-servit-pull-boxes.rst>`_
 
   .. image:: {filename}/images/07/images/ks.jpg
      :name: http://shenfang.com.tw/07/images/KS.JPG
@@ -170,4 +171,4 @@
      :class: product-image-thumbnail
 
 
-.. _UL: https://ulstandards.ul.com/
+.. _UL LISTED: https://ulstandards.ul.com/

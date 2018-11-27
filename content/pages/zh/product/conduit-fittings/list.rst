@@ -21,7 +21,7 @@
      :class: product-image-thumbnail
 
 - `內外牙由任UNY & 內牙由任UNF <{filename}m-f-unions-female-unions.rst>`_
-  (UL_)
+  (`UL LISTED`_)
 
   .. image:: {filename}/images/07/images/uny.gif
      :name: http://shenfang.com.tw/07/images/UNY.gif
@@ -150,7 +150,8 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `免焊接頭 & 接線匣 <{filename}universal-servit-pull-boxes.rst>`_
+..
+  - `免焊接頭 & 接線匣 <{filename}universal-servit-pull-boxes.rst>`_
 
   .. image:: {filename}/images/07/images/ks.jpg
      :name: http://shenfang.com.tw/07/images/KS.JPG
@@ -170,4 +171,4 @@
      :class: product-image-thumbnail
 
 
-.. _UL: https://ulstandards.ul.com/
+.. _UL LISTED: https://ulstandards.ul.com/
