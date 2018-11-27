@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/02/4.htm
 :og_image: https://vincelawyer.github.io/santfong/images/02/images/x.jpg
+:ul: yes
 
 .. contents:: 電管穿線匣 (CONDUIT OUTLET BOXES)
 
@@ -23,6 +24,10 @@ X型(X TYPE)
    :name: http://shenfang.com.tw/02/images/X-1.gif
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -271,6 +276,10 @@ LBD型(LBD TYPE)
    :name: http://shenfang.com.tw/02/images/LBD-1.gif
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 

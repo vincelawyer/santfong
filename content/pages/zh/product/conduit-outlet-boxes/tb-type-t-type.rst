@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/02/3.htm
 :og_image: https://vincelawyer.github.io/santfong/images/02/images/tb.gif
+:ul: yes
 
 .. contents:: 電管穿線匣 (CONDUIT OUTLET BOXES)
 
@@ -23,6 +24,10 @@ TB型(TB TYPE)
    :name: http://shenfang.com.tw/02/images/TB-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -271,6 +276,10 @@ T型(T TYPE)
    :name: http://shenfang.com.tw/02/images/T-1.gif
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
