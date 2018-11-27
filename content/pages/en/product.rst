@@ -90,6 +90,25 @@
      :alt: product
      :class: product-image-thumbnail
 
+- `FLEXIBLE METAL CONDUIT <{filename}product/flexible-metal-conduit/list.rst>`_
+
+  .. image:: {filename}/images/016/images/mc1.jpg
+     :name: http://shenfang.com.tw/016/images/MC1.jpg
+     :alt: product
+     :class: product-image-thumbnail
+
+- `CONNECTORS FOR FLEXIBLE METAL CONDUIT <{filename}product/connectors-for-flexible-metal-conduit/list.rst>`_
+
+  .. image:: {filename}/images/017/images/nbg-1.jpg
+     :name: http://shenfang.com.tw/017/images/NBG-1.JPG
+     :alt: product
+     :class: product-image-thumbnail
+
+  .. image:: {filename}/images/017/images/wbg.jpg
+     :name: http://shenfang.com.tw/017/images/WBG.JPG
+     :alt: product
+     :class: product-image-thumbnail
+
 - `CABLE GLAND <{filename}product/cable-gland/list.rst>`_
 
   .. image:: {filename}/images/08/images/mcg.jpg
@@ -167,25 +186,6 @@
 
   .. image:: {filename}/images/015/images/bajiao-1.jpg
      :name: http://shenfang.com.tw/015/images/八角-1.JPG
-     :alt: product
-     :class: product-image-thumbnail
-
-- `FLEXIBLE METAL CONDUIT <{filename}product/flexible-metal-conduit/list.rst>`_
-
-  .. image:: {filename}/images/016/images/mc1.jpg
-     :name: http://shenfang.com.tw/016/images/MC1.jpg
-     :alt: product
-     :class: product-image-thumbnail
-
-- `CONNECTORS FOR FLEXIBLE METAL CONDUIT <{filename}product/connectors-for-flexible-metal-conduit/list.rst>`_
-
-  .. image:: {filename}/images/017/images/nbg-1.jpg
-     :name: http://shenfang.com.tw/017/images/NBG-1.JPG
-     :alt: product
-     :class: product-image-thumbnail
-
-  .. image:: {filename}/images/017/images/wbg.jpg
-     :name: http://shenfang.com.tw/017/images/WBG.JPG
      :alt: product
      :class: product-image-thumbnail
 
