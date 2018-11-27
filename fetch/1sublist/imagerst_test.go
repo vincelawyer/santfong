@@ -6,7 +6,7 @@ import (
 )
 
 func TestGetAllImageRst(t *testing.T) {
-	enrstpath := "../../content/pages/en/product/cast-device-boxes/fc-type-fec-type.rst"
+	enrstpath := "../../content/pages/en/product/cast-device-boxes/fsa-type-fca-type.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	url := getUrlInRst(enrstpath)
