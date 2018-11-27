@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/04/1.htm
 :og_image: https://vincelawyer.github.io/santfong/images/04/images/12-ga.gif
+:ul: yes
 
 .. contents:: 耐壓防爆圓型接線盒 (EXPLOSION PROOF ROUND OUTLET BOXES)
 
@@ -23,6 +24,10 @@ GA 型(GA TYPE)
    :name: http://shenfang.com.tw/04/images/GA-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -205,6 +210,10 @@ GC 型(GC TYPE)
    :name: http://shenfang.com.tw/04/images/GC-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 

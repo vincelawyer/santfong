@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/04/5.htm
 :og_image: https://vincelawyer.github.io/santfong/images/04/images/gw.jpg
+:ul: yes
 
 .. contents:: 耐壓防爆圓型接線盒 (EXPLOSION PROOF ROUND OUTLET BOXES)
 
@@ -25,6 +26,10 @@ GW 型(GW TYPE)
    :name: http://shenfang.com.tw/04/images/GW-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -209,6 +214,10 @@ GM 型(GM TYPE)
    :name: http://shenfang.com.tw/04/images/GM-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 

@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/04/4-1.htm
 :og_image: https://vincelawyer.github.io/santfong/images/04/images/gb.jpg
+:ul: yes
 
 .. contents:: EXPLOSION PROOF ROUND OUTLET BOXES
 
@@ -25,6 +26,10 @@ GB TYPE
    :name: http://shenfang.com.tw/04/images/GB-2.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -193,6 +198,10 @@ GD TYPE
    :name: http://shenfang.com.tw/04/images/GD-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 

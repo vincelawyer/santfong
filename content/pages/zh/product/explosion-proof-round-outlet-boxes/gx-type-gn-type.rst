@@ -6,6 +6,7 @@
 :status: hidden
 :source: http://shenfang.com.tw/04/3.htm
 :og_image: https://vincelawyer.github.io/santfong/images/04/images/gx.jpg
+:ul: yes
 
 .. contents:: 耐壓防爆圓型接線盒 (EXPLOSION PROOF ROUND OUTLET BOXES)
 
@@ -23,6 +24,10 @@ GX 型(GX TYPE)
    :name: http://shenfang.com.tw/04/images/GX-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -249,6 +254,10 @@ GN 型(GN TYPE)
    :name: http://shenfang.com.tw/04/images/GN-1.JPG
    :alt: product
    :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
