@@ -101,7 +101,8 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `接地管件、火泥熔模 / GROUNDING FITTINGS <{filename}product/grounding-fittings/list.rst>`_
+..
+  - `接地管件、火泥熔模 / GROUNDING FITTINGS <{filename}product/grounding-fittings/list.rst>`_
 
   .. image:: {filename}/images/09/images/cxingtongjie-3.jpg
      :name: http://shenfang.com.tw/09/images/C型銅接-3.JPG
@@ -256,14 +257,15 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `電纜線架 / CABLE TRAYS <{filename}product/cable-trays/list.rst>`_
+..
+  - `電纜線架 / CABLE TRAYS <{filename}product/cable-trays/list.rst>`_
 
   .. image:: {filename}/images/023/images/xinziliaojia-20-2-/108-2.jpg
      :name: http://shenfang.com.tw/023/images/新資料夾%20(2)/108-2.JPG
      :alt: product
      :class: product-image-thumbnail
 
-- `電纜線槽 / CABLE DUCT <{filename}product/cable-duct/list.rst>`_
+  - `電纜線槽 / CABLE DUCT <{filename}product/cable-duct/list.rst>`_
 
   .. image:: {filename}/images/023/images/xinziliaojia-20-2-/ald.jpg
      :name: http://shenfang.com.tw/023/images/新資料夾%20(2)/ALD.JPG
