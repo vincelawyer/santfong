@@ -199,6 +199,13 @@
      :alt: product
      :class: product-image-thumbnail
 
+- `PVC浪管 & 配線器材 / FLEXIBLE CONDUIT & WIRING ACCESSORIES <{filename}product/flexible-conduit-wiring-accessories/list.rst>`_
+
+  .. image:: {filename}/images/019/images/pvc.jpg
+     :name: http://shenfang.com.tw/019/IMAGES/PVC.jpg
+     :alt: product
+     :class: product-image-thumbnail
+
 - `鍛鋼管配件 / FORGED PIPE FITTINGS <{filename}product/forged-pipe-fittings/list.rst>`_
 
   .. image:: {filename}/images/020/images/56-1.jpg
@@ -244,13 +251,6 @@
 
   .. image:: {filename}/images/022/images/xinziliaojia-20-2-/sfw-n10.jpg
      :name: http://shenfang.com.tw/022/images/新資料夾%20(2)/SFW-N10.JPG
-     :alt: product
-     :class: product-image-thumbnail
-
-- `PVC浪管 & 配線器材 / FLEXIBLE CONDUIT & WIRING ACCESSORIES <{filename}product/flexible-conduit-wiring-accessories/list.rst>`_
-
-  .. image:: {filename}/images/019/images/pvc.jpg
-     :name: http://shenfang.com.tw/019/IMAGES/PVC.jpg
      :alt: product
      :class: product-image-thumbnail
 
