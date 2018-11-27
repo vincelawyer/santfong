@@ -12,13 +12,13 @@ const ulimg = `
 `
 
 func TestGetAllImageRst(t *testing.T) {
-	enrstpath := "../../content/pages/en/product/sealing-fittings/yz-type-yzm-type.rst"
+	enrstpath := "../../content/pages/en/product/circular-surface-boxes-cast-outlet-boxes/wg-type.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	url := getUrlInRst(enrstpath)
 	imgurls := getAllImageUrlFromWebpage(url)
 	rstImgs := createImageRstFromUrl(imgurls)
-	rstImgs += ulimg
+	//rstImgs += ulimg
 	rstTables := parseTypeType(url)
 
 	fmt.Println()
@@ -31,7 +31,7 @@ func TestGetAllImageRst(t *testing.T) {
 	zhurl := getUrlInRst(zhrstpath)
 	zhimgurls := getAllImageUrlFromWebpage(zhurl)
 	zhrstImgs := createImageRstFromUrl(zhimgurls)
-	zhrstImgs += ulimg
+	//zhrstImgs += ulimg
 	zhrstTables := parseTypeType(zhurl)
 	AppendStringToFile(zhrstpath, zhrstImgs)
 	AppendStringToFile(zhrstpath, zhrstTables)
