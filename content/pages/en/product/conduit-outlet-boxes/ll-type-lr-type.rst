@@ -26,7 +26,7 @@ LL TYPE
 
 .. image:: {filename}/images/ul-mark.png
    :alt: UL LISTED
-   :class: img-fluid
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
@@ -277,7 +277,7 @@ LR TYPE
 
 .. image:: {filename}/images/ul-mark.png
    :alt: UL LISTED
-   :class: img-fluid
+   :class: img-fluid ul-max-width
 
 .. raw:: html
 
