@@ -5,13 +5,20 @@ import (
 	"testing"
 )
 
+const ulimg = `
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid ul-max-width
+`
+
 func TestGetAllImageRst(t *testing.T) {
-	enrstpath := "../../content/pages/en/product/explosion-proof-round-outlet-boxes/gx-type-gn-type.rst"
+	enrstpath := "../../content/pages/en/product/sealing-fittings/eys-type-eym-type.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	url := getUrlInRst(enrstpath)
 	imgurls := getAllImageUrlFromWebpage(url)
 	rstImgs := createImageRstFromUrl(imgurls)
+	rstImgs += ulimg
 	rstTables := parseTypeType(url)
 
 	fmt.Println()
@@ -24,6 +31,7 @@ func TestGetAllImageRst(t *testing.T) {
 	zhurl := getUrlInRst(zhrstpath)
 	zhimgurls := getAllImageUrlFromWebpage(zhurl)
 	zhrstImgs := createImageRstFromUrl(zhimgurls)
+	zhrstImgs += ulimg
 	zhrstTables := parseTypeType(zhurl)
 	AppendStringToFile(zhrstpath, zhrstImgs)
 	AppendStringToFile(zhrstpath, zhrstTables)
