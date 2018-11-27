@@ -193,7 +193,7 @@ GA 型(GA TYPE)
 
 ----
 
-GA 型(GA TYPE)
+GC 型(GC TYPE)
 ++++++++++++++
 
 .. image:: {filename}/images/04/images/gc.gif
