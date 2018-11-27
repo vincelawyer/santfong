@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'YOUR NAME'
-SITENAME = u'Santfong'
+SITENAME = u'Sunteron'
+#SITENAME = u'Sunteron co., Ltd'
 # leave SITEURL blank when developing
 SITEURL = ''
 
@@ -73,7 +74,7 @@ META_DESCRIPTION = 'YOUR META DESCRIPTION'
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
   'zh': {
-    'SITENAME': '您的中文站名',
+    'SITENAME': '聖特隆實業有限公司',
     'AUTHOR': '您的姓名',
     'LOCALE': 'zh_TW.UTF-8',
     'META_KEYWORDS': 'YOUR zh META KEYWORDS',
