@@ -55,6 +55,18 @@
      :alt: product
      :class: product-image-thumbnail
 
+- `圓型密封線盒&氣密燈穿線匣 / CIRCULAR SURFACE BOXES&CAST OUTLET BOXES <{filename}product/circular-surface-boxes-cast-outlet-boxes/list.rst>`_
+
+  .. image:: {filename}/images/05/images/wgc.gif
+     :name: http://shenfang.com.tw/05/images/WGC.gif
+     :alt: product
+     :class: product-image-thumbnail
+
+  .. image:: {filename}/images/05/images/gh.gif
+     :name: http://shenfang.com.tw/05/images/GH.gif
+     :alt: product
+     :class: product-image-thumbnail
+
 - `密封匣 / SEALING FITTINGS <{filename}product/sealing-fittings/list.rst>`_
   (`UL LISTED`_)
 
@@ -65,18 +77,6 @@
 
   .. image:: {filename}/images/06/images/eyd.jpg
      :name: http://shenfang.com.tw/06/images/EYD.jpg
-     :alt: product
-     :class: product-image-thumbnail
-
-- `圓型密封線盒&氣密燈穿線匣 / CIRCULAR SURFACE BOXES&CAST OUTLET BOXES <{filename}product/circular-surface-boxes-cast-outlet-boxes/list.rst>`_
-
-  .. image:: {filename}/images/05/images/wgc.gif
-     :name: http://shenfang.com.tw/05/images/WGC.gif
-     :alt: product
-     :class: product-image-thumbnail
-
-  .. image:: {filename}/images/05/images/gh.gif
-     :name: http://shenfang.com.tw/05/images/GH.gif
      :alt: product
      :class: product-image-thumbnail
 
