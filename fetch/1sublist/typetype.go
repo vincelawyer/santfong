@@ -46,7 +46,7 @@ func createTablesRst(lines []string) (rst string) {
 	tables := extractTablesHtml(lines)
 
 	for _, table := range tables {
-		rst += "\n\n.. raw:: html\n\n"
+		rst += "\n.. raw:: html\n\n"
 
 		r := strings.NewReader(table)
 		lines2, err := LinesFromReader(r)
@@ -58,7 +58,7 @@ func createTablesRst(lines []string) (rst string) {
 			rst = rst + "  " + line2 + "\n"
 		}
 
-		rst += "\n\n"
+		rst += "\n"
 	}
 
 	return
