@@ -24,6 +24,10 @@ LL TYPE
    :alt: product
    :class: img-fluid
 
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
+   :class: img-fluid
+
 .. raw:: html
 
   <table style="border-collapse: collapse;" border="0" width="99%" cellspacing="0" cellpadding="0">
@@ -269,6 +273,10 @@ LR TYPE
 .. image:: {filename}/images/02/images/lr-1.gif
    :name: http://shenfang.com.tw/02/images/LR-1.gif
    :alt: product
+   :class: img-fluid
+
+.. image:: {filename}/images/ul-mark.png
+   :alt: UL LISTED
    :class: img-fluid
 
 .. raw:: html
