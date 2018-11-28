@@ -14,7 +14,7 @@
 .. image:: {filename}/images/01/images/tieguan.jpg
    :name: http://shenfang.com.tw/01/images/鐵管.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 ----
 
