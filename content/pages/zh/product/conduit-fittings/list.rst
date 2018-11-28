@@ -21,7 +21,7 @@
      :class: product-image-thumbnail
 
 - `內外牙由任UNY & 內牙由任UNF <{filename}m-f-unions-female-unions.rst>`_
-  (`UL LISTED`_)
+  (Provide UL lsted series)
 
   .. image:: {filename}/images/07/images/uny.gif
      :name: http://shenfang.com.tw/07/images/UNY.gif
@@ -170,5 +170,3 @@
      :alt: product
      :class: product-image-thumbnail
 
-
-.. _UL LISTED: https://ulstandards.ul.com/
