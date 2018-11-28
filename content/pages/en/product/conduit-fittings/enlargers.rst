@@ -13,7 +13,7 @@ ENLAGERS - ME TYPE
 .. image:: {filename}/images/07/images/me.jpg
    :name: http://shenfang.com.tw/07/images/ME.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/07/images/me-1.gif
    :name: http://shenfang.com.tw/07/images/ME-1.gif

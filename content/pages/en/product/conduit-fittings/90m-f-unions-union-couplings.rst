@@ -141,7 +141,7 @@ UNION COUPLINGS - UC TYPE
 .. image:: {filename}/images/07/images/uc.jpg
    :name: http://shenfang.com.tw/07/images/UC.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/07/images/uc-1.gif
    :name: http://shenfang.com.tw/07/images/UC-1.gif
