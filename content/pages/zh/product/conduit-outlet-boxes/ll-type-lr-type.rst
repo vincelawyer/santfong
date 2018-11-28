@@ -25,7 +25,7 @@ LL型(LL TYPE)
    :alt: product
    :class: img-fluid
 
-UL系列為Santfang產品需另外洽詢，本網頁規格圖片為非UL系列shenfang產品。
+UL系列為Santfong產品需另外洽詢，本網頁規格圖片為非UL系列Shenfang產品。
 
 .. raw:: html
 
@@ -285,7 +285,7 @@ LR型(LR TYPE)
    :alt: product
    :class: img-fluid
 
-UL系列為Santfang產品需另外洽詢，本網頁規格圖片為非UL系列shenfang產品。
+UL系列為Santfong產品需另外洽詢，本網頁規格圖片為非UL系列Shenfang產品。
 
 .. raw:: html
 

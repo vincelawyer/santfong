@@ -25,9 +25,7 @@ LL TYPE
    :alt: product
    :class: img-fluid
 
-.. image:: {filename}/images/ul-mark.png
-   :alt: UL LISTED
-   :class: img-fluid ul-max-width
+UL listed Santfong series products need to be requested, this page is for non UL listed Shenfang series products.
 
 .. raw:: html
 
@@ -276,9 +274,7 @@ LR TYPE
    :alt: product
    :class: img-fluid
 
-.. image:: {filename}/images/ul-mark.png
-   :alt: UL LISTED
-   :class: img-fluid ul-max-width
+UL listed Santfong series products need to be requested, this page is for non UL listed Shenfang series products.
 
 .. raw:: html
 
