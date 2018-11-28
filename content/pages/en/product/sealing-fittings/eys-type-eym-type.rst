@@ -15,6 +15,12 @@
 EYS TYPE
 ++++++++
 
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eys.jpg
    :name: http://shenfang.com.tw/06/images/EYS.jpg
    :alt: product
@@ -22,12 +28,27 @@ EYS TYPE
 
 **1/2"~1"**
 
+.. raw:: html
+
+      </div>
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eys-2.gif
    :name: http://shenfang.com.tw/06/images/EYS-2.gif
    :alt: product
    :class: img-fluid
 
-|
+.. raw:: html
+
+       </div>
+    </div>
+  </div>
+
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
 
 .. image:: {filename}/images/06/images/eys-1.jpg
    :name: http://shenfang.com.tw/06/images/EYS-1.jpg
@@ -36,10 +57,21 @@ EYS TYPE
 
 **1-1/4"~4"**
 
+.. raw:: html
+
+      </div>
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eys-3.gif
    :name: http://shenfang.com.tw/06/images/EYS-3.gif
    :alt: product
    :class: img-fluid
+
+.. raw:: html
+
+       </div>
+    </div>
+  </div>
 
 UL listed Santfong series products need to be requested, this page is for non UL listed Shenfang series products.
 
@@ -236,6 +268,12 @@ UL listed Santfong series products need to be requested, this page is for non UL
 EYM TYPE
 ++++++++
 
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eym.jpg
    :name: http://shenfang.com.tw/06/images/EYM.JPG
    :alt: product
@@ -243,12 +281,27 @@ EYM TYPE
 
 **1/2"~1"**
 
+.. raw:: html
+
+      </div>
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eym-2.gif
    :name: http://shenfang.com.tw/06/images/EYM-2.gif
    :alt: product
    :class: img-fluid
 
-|
+.. raw:: html
+
+       </div>
+    </div>
+  </div>
+
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-6">
 
 .. image:: {filename}/images/06/images/eym-1.jpg
    :name: http://shenfang.com.tw/06/images/EYM-1.JPG
@@ -257,10 +310,21 @@ EYM TYPE
 
 **1-1/4"~4"**
 
+.. raw:: html
+
+      </div>
+      <div class="col-md-6">
+
 .. image:: {filename}/images/06/images/eym-3.gif
    :name: http://shenfang.com.tw/06/images/EYM-3.gif
    :alt: product
    :class: img-fluid
+
+.. raw:: html
+
+       </div>
+    </div>
+  </div>
 
 UL listed Santfong series products need to be requested, this page is for non UL listed Shenfang series products.
 
