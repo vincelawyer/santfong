@@ -16,7 +16,7 @@
      :class: product-image-thumbnail
 
 - `CONDUIT OUTLET BOXES <{filename}product/conduit-outlet-boxes/list.rst>`_
-  (Provide UL lsted series)
+  (Provide UL listed series)
 
   .. image:: {filename}/images/02/images/lb.gif
      :name: http://shenfang.com.tw/02/images/LB.gif
@@ -41,7 +41,7 @@
      :class: product-image-thumbnail
 
 - `EXPLOSION PROOF ROUND OUTLET BOXES <{filename}product/explosion-proof-round-outlet-boxes/list.rst>`_
-  (Provide UL lsted series)
+  (Provide UL listed series)
 
   .. image:: {filename}/images/04/images/gc.gif
      :name: http://shenfang.com.tw/04/images/GC.gif
@@ -66,7 +66,7 @@
      :class: product-image-thumbnail
 
 - `SEALING FITTINGS <{filename}product/sealing-fittings/list.rst>`_
-  (Provide UL lsted series)
+  (Provide UL listed series)
 
   .. image:: {filename}/images/06/images/eys.jpg
      :name: http://shenfang.com.tw/06/images/EYS.jpg
@@ -79,7 +79,7 @@
      :class: product-image-thumbnail
 
 - `CONDUIT FITTINGS <{filename}product/conduit-fittings/list.rst>`_
-  (Provide UL lsted series)
+  (Provide UL listed series)
 
   .. image:: {filename}/images/07/images/bui.jpg
      :name: http://shenfang.com.tw/07/images/BUI.JPG

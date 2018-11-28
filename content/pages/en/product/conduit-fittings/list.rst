@@ -21,7 +21,7 @@
      :class: product-image-thumbnail
 
 - `M-F UNIONS & FEMALE UNIONS <{filename}m-f-unions-female-unions.rst>`_
-  (Provide UL lsted series)
+  (Provide UL listed series)
 
   .. image:: {filename}/images/07/images/uny.gif
      :name: http://shenfang.com.tw/07/images/UNY.gif
