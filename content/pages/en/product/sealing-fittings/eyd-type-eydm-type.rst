@@ -17,12 +17,23 @@ EYD TYPE
 
 **The Drain & Breather must be ordered EYD+ECD 1/2")**
 
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4">
+
 .. image:: {filename}/images/06/images/eyd.jpg
    :name: http://shenfang.com.tw/06/images/EYD.jpg
    :alt: product
    :class: img-fluid final-product-image-max-width
 
 **1/2"~1"**
+
+.. raw:: html
+
+       </div>
+      <div class="col-md-4">
 
 .. image:: {filename}/images/06/images/eyd-1.jpg
    :name: http://shenfang.com.tw/06/images/EYD-1.JPG
@@ -31,10 +42,21 @@ EYD TYPE
 
 **1-1/4"~4"**
 
+.. raw:: html
+
+       </div>
+      <div class="col-md-4">
+
 .. image:: {filename}/images/06/images/eyd-2.gif
    :name: http://shenfang.com.tw/06/images/EYD-2.gif
    :alt: product
    :class: img-fluid
+
+.. raw:: html
+
+       </div>
+    </div>
+  </div>
 
 UL listed Santfong series products need to be requested, this page is for non UL listed Shenfang series products.
 
