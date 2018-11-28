@@ -7,56 +7,90 @@
 :source: http://shenfang.com.tw/05/1.htm
 :og_image: https://vincelawyer.github.io/santfong/images/05/images/wga.gif
 
-.. contents:: 圓型密封線盒&氣密燈穿線匣 (CIRCULAR SURFACE BOXES &CAST OUTLET BOXES)
+.. raw:: html
 
-----
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4">
 
-WGA
-+++
+**WGA**
 
 .. image:: {filename}/images/05/images/wga.gif
    :name: http://shenfang.com.tw/05/images/WGA.gif
    :alt: product
    :class: img-fluid
 
-WGC
-+++
+.. raw:: html
+
+      </div>
+      <div class="col-md-4">
+
+**WGC**
 
 .. image:: {filename}/images/05/images/wgc.gif
    :name: http://shenfang.com.tw/05/images/WGC.gif
    :alt: product
    :class: img-fluid
 
-WGL
-+++
+.. raw:: html
+
+      </div>
+      <div class="col-md-4">
+
+**WGL**
 
 .. image:: {filename}/images/05/images/wgl.gif
    :name: http://shenfang.com.tw/05/images/WGL.gif
    :alt: product
    :class: img-fluid
 
-WGT
-+++
+.. raw:: html
+
+      </div>
+    </div>
+  </div>
+
+.. raw:: html
+
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-4">
+
+
+**WGT**
 
 .. image:: {filename}/images/05/images/wgt.gif
    :name: http://shenfang.com.tw/05/images/WGT.gif
    :alt: product
    :class: img-fluid
 
-WGX
-+++
+.. raw:: html
+
+      </div>
+      <div class="col-md-4">
+
+**WGX**
 
 .. image:: {filename}/images/05/images/wgx.gif
    :name: http://shenfang.com.tw/05/images/WGX.gif
    :alt: product
    :class: img-fluid
 
-|
+.. raw:: html
+
+      </div>
+      <div class="col-md-4">
 
 .. image:: {filename}/images/05/images/17-wga-1.gif
    :name: http://shenfang.com.tw/05/images/17-WGA-1.gif
    :alt: product
    :class: img-fluid
+
+.. raw:: html
+
+      </div>
+    </div>
+  </div>
 
 .. raw:: html
 
