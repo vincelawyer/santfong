@@ -18,7 +18,7 @@ GX TYPE
 .. image:: {filename}/images/04/images/gx.jpg
    :name: http://shenfang.com.tw/04/images/GX.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/04/images/gx-1.jpg
    :name: http://shenfang.com.tw/04/images/GX-1.JPG

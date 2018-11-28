@@ -18,7 +18,7 @@ EYS TYPE
 .. image:: {filename}/images/06/images/eys.jpg
    :name: http://shenfang.com.tw/06/images/EYS.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 **1/2"~1"**
 
@@ -32,7 +32,7 @@ EYS TYPE
 .. image:: {filename}/images/06/images/eys-1.jpg
    :name: http://shenfang.com.tw/06/images/EYS-1.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 **1-1/4"~4"**
 
