@@ -19,12 +19,12 @@ FCC TYPE
 .. image:: {filename}/images/03/images/fcc.jpg
    :name: http://shenfang.com.tw/03/images/FCC.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/03/images/fcc-1.jpg
    :name: http://shenfang.com.tw/03/images/FCC-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. raw:: html
 

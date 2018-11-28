@@ -165,7 +165,7 @@ FEC TYPE
 .. image:: {filename}/images/03/images/fec.jpg
    :name: http://shenfang.com.tw/03/images/FEC.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/03/images/fec-1.jpg
    :name: http://shenfang.com.tw/03/images/FEC-1.jpg

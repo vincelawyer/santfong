@@ -190,7 +190,7 @@ FEB 型(FEB TYPE)
 .. image:: {filename}/images/03/images/feb.jpg
    :name: http://shenfang.com.tw/03/images/FEB.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/03/images/feb-1.jpg
    :name: http://shenfang.com.tw/03/images/FEB-1.jpg
