@@ -46,6 +46,12 @@
   }
 }
 
+@media (max-width: 576px) {
+  .final-product-image-max-height-sm {
+    max-height: 280px;
+  }
+}
+
 .final-product-image-max-width {
   max-width: 280px;
 }
