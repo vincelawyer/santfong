@@ -18,7 +18,7 @@ X型(X TYPE)
 .. image:: {filename}/images/02/images/x.jpg
    :name: http://shenfang.com.tw/02/images/X.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/02/images/x-1.gif
    :name: http://shenfang.com.tw/02/images/X-1.gif

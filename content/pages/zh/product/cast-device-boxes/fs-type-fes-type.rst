@@ -19,7 +19,7 @@ FS型(FS TYPE)
 .. image:: {filename}/images/03/images/fs.jpg
    :name: http://shenfang.com.tw/03/images/FS.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/03/images/fs-1.jpg
    :name: http://shenfang.com.tw/03/images/FS-1.JPG
@@ -171,7 +171,7 @@ FES型(FES TYPE)
 .. image:: {filename}/images/03/images/fes.jpg
    :name: http://shenfang.com.tw/03/images/FES.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/03/images/fes-1.jpg
    :name: http://shenfang.com.tw/03/images/FES-1.JPG
