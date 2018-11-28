@@ -44,5 +44,10 @@
     .final-product-image-max-width {
       max-width: 280px;
     }
+
+    img.img-fluid {
+      margin-right: 2rem;
+      min-width: 200px;
+    }
   }
 }
