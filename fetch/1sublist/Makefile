@@ -9,6 +9,8 @@ endif
 
 ALL_GO_SOURCES=$(shell /bin/sh -c "find *.go | grep -v _test.go")
 
+ulmark: fmt checkout_content
+	go test -v $(ALL_GO_SOURCES) ulmark_test.go
 
 image: fmt checkout_content
 	go test -v $(ALL_GO_SOURCES) imagerst_test.go

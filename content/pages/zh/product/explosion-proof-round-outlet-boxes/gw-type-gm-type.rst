@@ -27,9 +27,7 @@ GW 型(GW TYPE)
    :alt: product
    :class: img-fluid
 
-.. image:: {filename}/images/ul-mark.png
-   :alt: UL LISTED
-   :class: img-fluid ul-max-width
+UL系列為Santfong產品需另外洽詢，本網頁規格圖片為非UL系列Shenfang產品。
 
 .. raw:: html
 
@@ -215,9 +213,7 @@ GM 型(GM TYPE)
    :alt: product
    :class: img-fluid
 
-.. image:: {filename}/images/ul-mark.png
-   :alt: UL LISTED
-   :class: img-fluid ul-max-width
+UL系列為Santfong產品需另外洽詢，本網頁規格圖片為非UL系列Shenfang產品。
 
 .. raw:: html
 
