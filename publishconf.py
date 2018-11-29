@@ -28,7 +28,7 @@ DELETE_OUTPUT_DIRECTORY = True
 #GOOGLE_ANALYTICS = ""
 
 # Google Custom Search
-GOOGLE_CSE = '000759460633137666077:43yuu4nvb0c'
+GOOGLE_CSE = '015740835703749574172:xcjpa2d0eqw'
 
 # Google Adsense
 #   Remember to modify
