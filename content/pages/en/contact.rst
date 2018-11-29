@@ -18,7 +18,9 @@
     </div>
     <div class="col-md-6">
 
+  <div class="contact-address-font-size">
 
+|
 | Sunteron Enterprises Co. Ltd
 | 9F.,No.103,Sec.2,Nanchang Rd., Zhongzheng Dist.,Taipei City 100, Taiwan (R.O.C.)
 | TEL:886-7-8132001 FAX:886-7-8112541
@@ -26,6 +28,8 @@
 |
 
 .. raw:: html
+
+  </div>
 
   <div class="google-maps">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3615.216709423147!2d121.51928451467958!3d25.02671868397574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442a99a6ce07c31%3A0xfd6d519ef3301824!2zMTAw5Y-w5YyX5biC5Lit5q2j5Y2A5Y2X5piM6Lev5LqM5q61MTAz6Jmf5Lmd5qiT!5e0!3m2!1szh-TW!2stw!4v1543497959425" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
