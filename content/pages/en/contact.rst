@@ -8,7 +8,7 @@
 :og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
 
 
-| Sunteron CO., LTD
+| Sunteron Enterprises Co. Ltd
 | NO.9 SHIN CHYANG  ROAD CHIEN CHEN DISTRICT
 | 806 KAOHSIUNG TAIWAN
 | TEL:886-7-8132001 FAX:886-7-8112541

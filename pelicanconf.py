@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'YOUR NAME'
 #SITENAME = u'Sunteron'
-SITENAME = u'Sunteron co., Ltd'
+SITENAME = u'Sunteron Enterprises Co. Ltd'
 # leave SITEURL blank when developing
 SITEURL = ''
 
