@@ -2,6 +2,11 @@
   height: 50px;
 }
 
+// 最後產品頁面的個別圖片做最大寬度限制
+.final-product-image-max-width {
+  max-width: 280px;
+}
+
 .main-content {
   ul {
     li {
@@ -11,12 +16,14 @@
     }
   }
 
+  // 最後產品頁面的所有圖片最小寬度是200px
   img.img-fluid {
     margin-bottom: 2.5rem;
     min-width: 200px;
   }
 }
 
+// 針對桌機（寬螢幕）做特別處理
 @media (min-width: 768px) {
   .navbar-brand {
     font-size: 1.75rem;
@@ -42,12 +49,9 @@
   }
 }
 
+// 針對手機（窄螢幕）做特別處理
 @media (max-width: 576px) {
   .final-product-image-max-height-sm {
     max-height: 280px;
   }
-}
-
-.final-product-image-max-width {
-  max-width: 280px;
 }
