@@ -72,7 +72,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">3/4<span lang="EN-US">×</span>1/2</font></td>
+          <p align="center"><font face="Arial" size="2">3/4<span lang="EN-US">×</span>1/2</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC21</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC21-M</font></td>
           <td width="12%" rowspan="36" height="592">        
@@ -102,7 +102,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">1</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC31</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -116,7 +116,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1<span lang="EN-US">×</span>3/4</font></td>
+          <p align="center"><font face="Arial" size="2">1<span lang="EN-US">×</span>3/4</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC32</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC32-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC32-A</font></td>
@@ -125,7 +125,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC41</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -139,7 +139,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC42</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC42-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC42-A</font></td>
@@ -148,7 +148,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/4</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC43</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -162,7 +162,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC51</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC51-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC51-A</font></td>
@@ -171,7 +171,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC52</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -185,7 +185,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC53</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC53-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC53-A</font></td>
@@ -194,7 +194,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">1-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC54</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -208,7 +208,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC61</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC61-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC61-A</font></td>
@@ -217,7 +217,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC62</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -231,7 +231,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
+          <p align="center"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC63</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC63-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC63-A</font></td>
@@ -240,7 +240,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC64</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -254,7 +254,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/2</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC65</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC65-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC65-A</font></td>
@@ -263,7 +263,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1/2</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC71</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -277,7 +277,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">3/4</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC72</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC72-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC72-A</font></td>
@@ -286,7 +286,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC73</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -300,7 +300,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/4</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC74</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC74-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC74-A</font></td>
@@ -309,7 +309,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/2</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">1-1/2</font></font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC75</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -323,7 +323,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">2</font></font></td>
+          <p align="center"><font face="Arial" size="2">2-1/2</font><font face="Arial"><span lang="EN-US"><font size="2">×</font></span><font size="2">2</font></font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC76</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC76-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC76-A</font></td>
@@ -332,7 +332,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>1/2</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>1/2</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC81</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -346,7 +346,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>3/4</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>3/4</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC82</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC82-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC82-A</font></td>
@@ -355,7 +355,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>1</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>1</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC83</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -369,7 +369,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>1-1/4</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>1-1/4</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC84</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC84-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC84-A</font></td>
@@ -378,7 +378,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>1-1/2</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>1-1/2</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC85</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -392,7 +392,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>2</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>2</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC86</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC86-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC86-A</font></td>
@@ -401,7 +401,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">3<span lang="EN-US">×</span>2-1/2</font></td>
+          <p align="center"><font size="2" face="Arial">3<span lang="EN-US">×</span>2-1/2</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC87</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -415,7 +415,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>1/2</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>1/2</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC91</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC91-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC91-A</font></td>
@@ -424,7 +424,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>3/4</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>3/4</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
           <font face="Arial" size="2">REC92</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="18">
@@ -438,7 +438,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="18">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>1</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>1</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC93</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC93-M</font></td>
           <td width="12%" align="center" height="18"><font face="Arial" size="2">REC93-A</font></td>
@@ -447,7 +447,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="19">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>1-1/4</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>1-1/4</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
           <font face="Arial" size="2">REC94</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
@@ -461,7 +461,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="19">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>1-1/2</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>1-1/2</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC95</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC95-M</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC95-A</font></td>
@@ -470,7 +470,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="19">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>2</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>2</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
           <font face="Arial" size="2">REC96</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
@@ -484,7 +484,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" height="19">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>2-1/2</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>2-1/2</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC97</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC97-M</font></td>
           <td width="12%" align="center" height="19"><font face="Arial" size="2">REC97-A</font></td>
@@ -493,7 +493,7 @@ REDUCING COUPLINGS - REC TYPE
         </tr>
         <tr>
           <td width="12%" bgcolor="#FFCCCC" height="19">
-          <p style="margin-left: 10"><font size="2" face="Arial">4<span lang="EN-US">×</span>3</font></td>
+          <p align="center"><font size="2" face="Arial">4<span lang="EN-US">×</span>3</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
           <font face="Arial" size="2">REC98</font></td>
           <td width="12%" align="center" bgcolor="#FFCCCC" height="19">
