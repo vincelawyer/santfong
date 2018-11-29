@@ -20,6 +20,7 @@ STATIC_PATHS = ['articles', 'pages', 'extra', 'code', 'images']
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/manifest.json': {'path': 'manifest.json'},
                        'extra/sw.js': {'path': 'sw.js'},
+                       'extra/CNAME': {'path': 'CNAME'},
                        'extra/yezi.png': {'path': 'favicon.ico'},}
 
 # modify TIMEZONE to your timezone
