@@ -5,20 +5,6 @@ import (
 )
 
 func isUnitLine(lineno int, line string) bool {
-	if strings.Contains(line, "AutoNumber46") {
-		return true
-	}
-	if strings.Contains(line, "AutoNumber48") {
-		return true
-	}
-	if strings.Contains(line, "AutoNumber50") {
-		return true
-	}
-	if strings.Contains(line, "AutoNumber52") {
-		return true
-	}
-	return false
-
 	if strings.HasPrefix(line, `<p align="right"`) {
 		return true
 	}
