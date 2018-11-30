@@ -443,7 +443,7 @@ WATERPROOF UNION ELBOW CONNECTOR FOR PLICA PV5-WAG
 .. image:: {filename}/images/017/images/wag.jpg
    :name: http://shenfang.com.tw/017/images/WAG.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-width
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/017/images/wag-1.gif
    :name: http://shenfang.com.tw/017/images/WAG-1.gif

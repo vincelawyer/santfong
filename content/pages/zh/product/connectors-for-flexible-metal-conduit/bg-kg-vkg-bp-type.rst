@@ -436,7 +436,7 @@
 .. image:: {filename}/images/017/images/bp.jpg
    :name: http://shenfang.com.tw/017/images/BP.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-width
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/017/images/bp-1.jpg
    :name: http://shenfang.com.tw/017/images/BP-1.JPG
