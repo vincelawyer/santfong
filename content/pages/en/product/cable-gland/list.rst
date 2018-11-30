@@ -8,7 +8,7 @@
 :og_image: https://vincelawyer.github.io/santfong/images/08/images/cgb.jpg
 
 
-- `CABLE GLAND CGB TYPE & CGS TYEP <{filename}cable-gland-cgb-type-cgs-tyep.rst>`_
+- `CABLE GLAND CGB TYPE & CGS TYPE <{filename}cable-gland-cgb-type-cgs-type.rst>`_
 
   .. image:: {filename}/images/08/images/cgb.jpg
      :name: http://shenfang.com.tw/08/images/CGB.JPG
