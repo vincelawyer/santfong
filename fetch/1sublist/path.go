@@ -29,6 +29,13 @@ func getLocalImagePathFromUrl(url string) (imgPath string) {
 	relpath := ll[1]
 	pypath := zhCharToPinyin(relpath)
 	cpath := cleanPath(pypath)
+
+	// handle special case: http://shenfang.com.tw/011/4-1.htm
+	//cpath2 := strings.TrimPrefix(cpath, "011/images/\177")
+	//if cpath2 != cpath {
+	//	cpath = "011/images/" + cpath2
+	//}
+
 	checkPath(cpath)
 	imgPath = path.Join(imgRootDir, cpath)
 	return
