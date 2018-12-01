@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/011/3-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/011/images/quanyaluogan3.jpg
+:og_image: https://sunteron.com/images/011/images/quanyaluogan3.jpg
 
 
 .. image:: {filename}/images/011/images/quanyaluogan3.jpg

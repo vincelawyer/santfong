@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/3.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/rec.jpg
+:og_image: https://sunteron.com/images/07/images/rec.jpg
 
 內絲大小接頭 REC (REDUCING COUPLINGS)
 +++++++++++++++++++++++++++++++++++++

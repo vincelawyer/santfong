@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/03/8.htm
-:og_image: https://vincelawyer.github.io/santfong/images/03/images/fcc.jpg
+:og_image: https://sunteron.com/images/03/images/fcc.jpg
 
 .. contents:: 開關接線盒 (CAST DEVICE BOXES)
 

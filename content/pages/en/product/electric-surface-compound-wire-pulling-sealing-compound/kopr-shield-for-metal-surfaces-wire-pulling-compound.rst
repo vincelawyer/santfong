@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/010/1-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/010/images/daodiangao.jpg
+:og_image: https://sunteron.com/images/010/images/daodiangao.jpg
 
 KOPR-SHIELD FOR METAL SURFACES
 ++++++++++++++++++++++++++++++

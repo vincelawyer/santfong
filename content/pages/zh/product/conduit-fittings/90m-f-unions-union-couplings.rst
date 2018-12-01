@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/10.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/unl.jpg
+:og_image: https://sunteron.com/images/07/images/unl.jpg
 
 .. contents:: 電管管件 (CONDUIT FITTINGS)
 

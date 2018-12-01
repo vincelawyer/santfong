@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/13.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/bun.jpg
+:og_image: https://sunteron.com/images/07/images/bun.jpg
 
 .. contents:: 電管管件 (CONDUIT FITTINGS)
 

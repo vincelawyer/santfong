@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/022/d3.htm
-:og_image: https://vincelawyer.github.io/santfong/images/022/images/xinziliaojia-20-2-/smg-1.jpg
+:og_image: https://sunteron.com/images/022/images/xinziliaojia-20-2-/smg-1.jpg
 
 
 - `耐壓防爆接線箱 1 <{filename}flame-proof-explosion-protected-pullboxes-1.rst>`_

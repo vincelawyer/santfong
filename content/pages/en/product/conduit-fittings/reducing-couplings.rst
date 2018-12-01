@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/07/3-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/rec.jpg
+:og_image: https://sunteron.com/images/07/images/rec.jpg
 
 REDUCING COUPLINGS - REC TYPE
 +++++++++++++++++++++++++++++

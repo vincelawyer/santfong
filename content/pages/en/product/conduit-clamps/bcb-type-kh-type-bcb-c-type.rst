@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/013/5-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/013/images/hukoujia.jpg
+:og_image: https://sunteron.com/images/013/images/hukoujia.jpg
 
 .. contents:: CONDUIT CLAMPS
 

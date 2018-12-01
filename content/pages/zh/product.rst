@@ -5,7 +5,7 @@
 :lang: zh
 :order: 2
 :source: http://shenfang.com.tw/product.htm
-:og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
+:og_image: https://sunteron.com/images/comp1.gif
 :catalog: https://github.com/vincelawyer/santfong/blob/master/content/extra/completeCatalog.pdf
 
 

@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/8.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/nip.gif
+:og_image: https://sunteron.com/images/07/images/nip.gif
 
 外絲短管 NIPS (SHORT NIPPLES)
 +++++++++++++++++++++++++++++

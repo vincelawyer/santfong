@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/020/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/020/images/l.jpg
+:og_image: https://sunteron.com/images/020/images/l.jpg
 
 
 - `可鍛鑄鐵管子接頭 <{filename}forged-pipe-fittings-threaded.rst>`_

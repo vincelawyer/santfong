@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/017/2-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/017/images/kbg-1.jpg
+:og_image: https://sunteron.com/images/017/images/kbg-1.jpg
 
 .. contents:: CONNECTORS FOR FLEXIBLE METAL CONDUIT
 

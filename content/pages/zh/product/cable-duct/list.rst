@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/023/d2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/023/images/xinziliaojia-20-2-/ald.jpg
+:og_image: https://sunteron.com/images/023/images/xinziliaojia-20-2-/ald.jpg
 
 
 - `電纜線槽型式 TABLE OF AVAILABLE CABLE DUCT <{filename}table-of-available-cable-duct.rst>`_

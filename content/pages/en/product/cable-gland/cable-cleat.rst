@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/08/4-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/08/images/meihuaxing-b.jpg
+:og_image: https://sunteron.com/images/08/images/meihuaxing-b.jpg
 
 .. contents:: CABLE CLEAT
 

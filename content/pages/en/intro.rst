@@ -5,7 +5,7 @@
 :lang: en
 :order: 1
 :source: http://shenfang.com.tw/comp-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/comp1.gif
+:og_image: https://sunteron.com/images/comp1.gif
 
 
 About us

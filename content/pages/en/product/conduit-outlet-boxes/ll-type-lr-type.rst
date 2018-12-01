@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/02/1-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/02/images/ll.gif
+:og_image: https://sunteron.com/images/02/images/ll.gif
 :ul: yes
 
 .. contents:: CONDUIT OUTLET BOXES

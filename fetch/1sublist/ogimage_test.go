@@ -9,8 +9,8 @@ import (
 )
 
 func replaceOgImage(fpath string) {
-	oldprefix := "{filename}"
-	newprefix := "https://vincelawyer.github.io/santfong"
+	oldprefix := "https://vincelawyer.github.io/santfong"
+	newprefix := "https://sunteron.com"
 
 	_, err := replaceLinesAndWrite(fpath, func(s string) string {
 		if strings.HasPrefix(s, ":og_image: "+oldprefix) {

@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/023/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/023/images/xinziliaojia-20-2-/108-2.jpg
+:og_image: https://sunteron.com/images/023/images/xinziliaojia-20-2-/108-2.jpg
 
 
 - `TABLE OF AVAILABLE CABLE TRAYS <{filename}table-of-available-cable-trays.rst>`_

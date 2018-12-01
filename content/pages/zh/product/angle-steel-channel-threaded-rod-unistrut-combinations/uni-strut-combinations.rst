@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/011/5.htm
-:og_image: https://vincelawyer.github.io/santfong/images/011/images/xinggangzuhe/c401-1.jpg
+:og_image: https://sunteron.com/images/011/images/xinggangzuhe/c401-1.jpg
 
 .. raw:: html
 

@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/023/33-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/023/images/xiancao/youwan.jpg
+:og_image: https://sunteron.com/images/023/images/xiancao/youwan.jpg

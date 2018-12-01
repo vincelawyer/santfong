@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/07/1-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/el.jpg
+:og_image: https://sunteron.com/images/07/images/el.jpg
 
 .. contents:: CONDUIT FITTINGS
 

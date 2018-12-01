@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/07/5.htm
-:og_image: https://vincelawyer.github.io/santfong/images/07/images/re.gif
+:og_image: https://sunteron.com/images/07/images/re.gif
 
 
 內外絲接頭 RE (REDUCERS)

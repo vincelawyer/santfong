@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/021/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/021/images/mc.jpg
+:og_image: https://sunteron.com/images/021/images/mc.jpg
 
 
 - `MALE CONNECTOR <{filename}male-connector.rst>`_

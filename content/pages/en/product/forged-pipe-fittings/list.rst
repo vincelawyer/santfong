@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/020/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/020/images/l.jpg
+:og_image: https://sunteron.com/images/020/images/l.jpg
 
 
 - `FORGED PIPE FITTINGS THREADED <{filename}forged-pipe-fittings-threaded.rst>`_

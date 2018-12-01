@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/02/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/02/images/ll.gif
+:og_image: https://sunteron.com/images/02/images/ll.gif
 
 
 - `TYPE : LL型 ; LR型 <{filename}ll-type-lr-type.rst>`_

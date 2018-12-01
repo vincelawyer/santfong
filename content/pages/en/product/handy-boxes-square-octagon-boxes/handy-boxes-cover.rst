@@ -5,4 +5,4 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/015/1-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/015/images/danlian.jpg
+:og_image: https://sunteron.com/images/015/images/danlian.jpg

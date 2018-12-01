@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/01/1-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/01/images/tieguan.jpg
+:og_image: https://sunteron.com/images/01/images/tieguan.jpg
 
 .. contents:: CONDUIT PIPE
 

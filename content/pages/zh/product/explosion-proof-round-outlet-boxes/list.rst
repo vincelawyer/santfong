@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/04/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/04/images/12-ga.gif
+:og_image: https://sunteron.com/images/04/images/12-ga.gif
 
 
 - `TYPE : GA型 ; GC 型 <{filename}ga-type-gc-type.rst>`_

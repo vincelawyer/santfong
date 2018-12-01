@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/019/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/019/images/pvc.jpg
+:og_image: https://sunteron.com/images/019/images/pvc.jpg
 
 
 - `FLEXIBLE CONDUIT AND NYLON CABLE GLAND <{filename}flexible-conduit-and-nylon-cable-gland.rst>`_

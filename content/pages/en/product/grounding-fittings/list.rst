@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/09/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/09/images/wt.jpg
+:og_image: https://sunteron.com/images/09/images/wt.jpg
 
 
 - `GROUNDING FITTINGS <{filename}grounding-fittings.rst>`_

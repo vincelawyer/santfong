@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/04/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/04/images/gl.gif
+:og_image: https://sunteron.com/images/04/images/gl.gif
 :ul: yes
 
 .. contents:: 耐壓防爆圓型接線盒 (EXPLOSION PROOF ROUND OUTLET BOXES)

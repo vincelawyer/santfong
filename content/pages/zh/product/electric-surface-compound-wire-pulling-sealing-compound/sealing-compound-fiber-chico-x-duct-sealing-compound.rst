@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/010/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/010/images/fangbaofen.jpg
+:og_image: https://sunteron.com/images/010/images/fangbaofen.jpg
 
 防爆粉
 ++++++

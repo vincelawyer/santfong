@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/013/1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/013/images/ucb.jpg
+:og_image: https://sunteron.com/images/013/images/ucb.jpg
 
 UCB 管夾 (UCB TYPE)
 +++++++++++++++++++

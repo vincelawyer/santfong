@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/08/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/08/images/cws.jpg
+:og_image: https://sunteron.com/images/08/images/cws.jpg
 
 .. contents:: 電纜固定頭 (CABLE GLAND)
 

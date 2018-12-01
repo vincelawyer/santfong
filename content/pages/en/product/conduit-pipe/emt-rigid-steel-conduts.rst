@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/01/2-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/01/images/emt.jpg
+:og_image: https://sunteron.com/images/01/images/emt.jpg
 
 .. contents:: EMT RIGID STEEL CONDUTS
 

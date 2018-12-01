@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/016/1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/016/images/cr.jpg
+:og_image: https://sunteron.com/images/016/images/cr.jpg
 
 .. contents:: 電線電纜保護用軟管 (FLEXIBLE METAL CONDUIT)
 

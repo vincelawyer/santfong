@@ -5,4 +5,4 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/015/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/015/images/shuanglian-1.jpg
+:og_image: https://sunteron.com/images/015/images/shuanglian-1.jpg

@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/01/1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/01/images/tieguan.jpg
+:og_image: https://sunteron.com/images/01/images/tieguan.jpg
 
 .. contents:: 配 電 電 管 (CONDUIT PIPE)
 

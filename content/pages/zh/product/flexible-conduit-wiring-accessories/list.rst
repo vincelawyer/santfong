@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/019/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/019/images/pvc.jpg
+:og_image: https://sunteron.com/images/019/images/pvc.jpg
 
 
 - `PVC浪管 & 電纜頭 <{filename}flexible-conduit-and-nylon-cable-gland.rst>`_

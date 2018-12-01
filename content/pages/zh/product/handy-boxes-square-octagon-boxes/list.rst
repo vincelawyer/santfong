@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/015/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/015/images/danlian.jpg
+:og_image: https://sunteron.com/images/015/images/danlian.jpg
 
 
 - `單聯接線盒&蓋板 <{filename}handy-boxes-cover.rst>`_

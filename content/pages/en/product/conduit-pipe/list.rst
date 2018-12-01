@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/01/d-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/01/images/tieguan.jpg
+:og_image: https://sunteron.com/images/01/images/tieguan.jpg
 
 
 - `RIGID STEEL CONDUITS CNS2606&ANSI80.1 <{filename}rigid-steel-conduits.rst>`_

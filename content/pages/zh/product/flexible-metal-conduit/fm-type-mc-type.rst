@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/016/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/016/images/fm-4.jpg
+:og_image: https://sunteron.com/images/016/images/fm-4.jpg
 
 .. contents:: 金屬軟管＆低煙無鹵金屬軟管
 

@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/013/8.htm
-:og_image: https://vincelawyer.github.io/santfong/images/013/images/uxingluosi.jpg
+:og_image: https://sunteron.com/images/013/images/uxingluosi.jpg
 
 .. contents:: 電管管夾 (CONDUIT CLAMPS)
 

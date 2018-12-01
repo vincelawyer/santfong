@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/09/d.htm
-:og_image: https://vincelawyer.github.io/santfong/images/09/images/wt.jpg
+:og_image: https://sunteron.com/images/09/images/wt.jpg
 
 
 - `火 泥 模 具 <{filename}grounding-fittings.rst>`_

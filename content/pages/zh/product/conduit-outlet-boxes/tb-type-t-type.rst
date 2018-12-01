@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/02/3.htm
-:og_image: https://vincelawyer.github.io/santfong/images/02/images/tb.gif
+:og_image: https://sunteron.com/images/02/images/tb.gif
 :ul: yes
 
 .. contents:: 電管穿線匣 (CONDUIT OUTLET BOXES)

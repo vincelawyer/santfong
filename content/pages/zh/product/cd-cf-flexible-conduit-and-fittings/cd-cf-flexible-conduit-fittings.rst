@@ -5,7 +5,7 @@
 :lang: zh
 :status: hidden
 :source: http://shenfang.com.tw/018/2.htm
-:og_image: https://vincelawyer.github.io/santfong/images/018/images/hejietou.jpg
+:og_image: https://sunteron.com/images/018/images/hejietou.jpg
 
 
 .. contents:: CD、CF管配件 (CD、CF FLEXIBLE CONDUIT FITTINGS)

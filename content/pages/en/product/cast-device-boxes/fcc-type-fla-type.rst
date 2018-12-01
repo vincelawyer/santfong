@@ -5,7 +5,7 @@
 :lang: en
 :status: hidden
 :source: http://shenfang.com.tw/03/8-1.htm
-:og_image: https://vincelawyer.github.io/santfong/images/03/images/fcc.jpg
+:og_image: https://sunteron.com/images/03/images/fcc.jpg
 
 .. contents:: CAST DEVICE BOXES
 
