@@ -12,7 +12,7 @@ const ulimg = `
 `
 
 func TestGetAllImageRst(t *testing.T) {
-	enrstpath := "../../content/pages/en/product/flexible-conduit-wiring-accessories/wiring-accessories.rst"
+	enrstpath := "../../content/pages/en/product/forged-pipe-fittings/forged-pipe-fittings-threaded.rst"
 	zhrstpath := getChineseRstPath(enrstpath)
 
 	url := getUrlInRst(enrstpath)
