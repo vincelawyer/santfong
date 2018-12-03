@@ -24,7 +24,7 @@ EYS TYPE
 .. image:: {filename}/images/06/images/eys.jpg
    :name: http://shenfang.com.tw/06/images/EYS.jpg
    :alt: product
-   :class: img-fluid final-product-image-max-width final-product-image-max-height-sm
+   :class: img-fluid final-product-image-max-height
 
 **1/2"~1"**
 
@@ -53,7 +53,7 @@ EYS TYPE
 .. image:: {filename}/images/06/images/eys-1.jpg
    :name: http://shenfang.com.tw/06/images/EYS-1.jpg
    :alt: product
-   :class: img-fluid final-product-image-max-width final-product-image-max-height-sm
+   :class: img-fluid final-product-image-max-height
 
 **1-1/4"~4"**
 
@@ -277,7 +277,7 @@ EYM TYPE
 .. image:: {filename}/images/06/images/eym.jpg
    :name: http://shenfang.com.tw/06/images/EYM.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 **1/2"~1"**
 
@@ -306,7 +306,7 @@ EYM TYPE
 .. image:: {filename}/images/06/images/eym-1.jpg
    :name: http://shenfang.com.tw/06/images/EYM-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 **1-1/4"~4"**
 
