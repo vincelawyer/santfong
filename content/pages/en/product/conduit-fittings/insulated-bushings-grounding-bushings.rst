@@ -17,7 +17,7 @@ INSULATED BUSHINGS - BUI TYPE
 .. image:: {filename}/images/07/images/bui.jpg
    :name: http://shenfang.com.tw/07/images/BUI.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/07/images/bui-1.gif
    :name: http://shenfang.com.tw/07/images/BUI-1.gif
@@ -284,7 +284,7 @@ GROUNDING BUSHINGS - BUG TYPE
 .. image:: {filename}/images/07/images/bug.jpg
    :name: http://shenfang.com.tw/07/images/BUG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/07/images/bug-1.jpg
    :name: http://shenfang.com.tw/07/images/BUG-1.JPG
