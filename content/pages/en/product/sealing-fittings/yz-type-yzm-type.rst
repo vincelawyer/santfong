@@ -20,7 +20,7 @@ YZ TYPE
 .. image:: {filename}/images/06/images/yz.jpg
    :name: http://shenfang.com.tw/06/images/YZ.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/06/images/yz-1.gif
    :name: http://shenfang.com.tw/06/images/YZ-1.gif
@@ -226,7 +226,7 @@ YZM TYPE
 .. image:: {filename}/images/06/images/yzm.jpg
    :name: http://shenfang.com.tw/06/images/YZM.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/06/images/yzm-1.gif
    :name: http://shenfang.com.tw/06/images/YZM-1.gif
