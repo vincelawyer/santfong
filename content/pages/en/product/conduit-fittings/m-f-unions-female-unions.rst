@@ -228,7 +228,7 @@ FEMALE UNIONS UNF TYPE
 .. image:: {filename}/images/07/images/unf.gif
    :name: http://shenfang.com.tw/07/images/UNF.gif
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/07/images/unf-1.gif
    :name: http://shenfang.com.tw/07/images/UNF-1.gif
