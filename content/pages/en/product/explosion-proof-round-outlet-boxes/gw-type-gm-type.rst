@@ -20,7 +20,7 @@ GW TYPE
 .. image:: {filename}/images/04/images/gw.jpg
    :name: http://shenfang.com.tw/04/images/GW.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/04/images/gw-1.jpg
    :name: http://shenfang.com.tw/04/images/GW-1.JPG
@@ -185,7 +185,7 @@ GM TYPE
 .. image:: {filename}/images/04/images/gm.jpg
    :name: http://shenfang.com.tw/04/images/GM.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/04/images/gm-1.jpg
    :name: http://shenfang.com.tw/04/images/GM-1.JPG
