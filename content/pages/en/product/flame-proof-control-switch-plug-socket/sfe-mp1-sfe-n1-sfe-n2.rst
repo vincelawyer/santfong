@@ -1,4 +1,4 @@
-:title: SFE-MP1 & SFE-N1 & SFE-N2 - FLAME-PROOF CONTROL SWITCH 、PLUG SOCKET
+:title: SFE-MP1 & SFE-N1 & SFE-N2 - SFE FLAME-PROOF CONTROL SWITCH
 :slug: sfe-mp1-sfe-n1-sfe-n2
 :tags: product, flame-proof-control-switch-plug-socket
 :summary: SFE-MP1 & SFE-N1 & SFE-N2 - FLAME-PROOF CONTROL SWITCH 、PLUG SOCKET
