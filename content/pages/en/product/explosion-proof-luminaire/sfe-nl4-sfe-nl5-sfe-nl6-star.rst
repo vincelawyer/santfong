@@ -131,14 +131,14 @@ STAR
 .. image:: {filename}/images/022/images/xinziliaojia/shoudiantong-3.jpg
    :name: http://shenfang.com.tw/022/images/新資料夾/手電筒-3.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/022/images/xinziliaojia/shoudiantong-4.jpg
    :name: http://shenfang.com.tw/022/images/新資料夾/手電筒-4.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/022/images/xinziliaojia/shoudiantong-5.jpg
    :name: http://shenfang.com.tw/022/images/新資料夾/手電筒-5.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
