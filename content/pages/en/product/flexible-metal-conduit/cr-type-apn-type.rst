@@ -19,7 +19,7 @@ CR TYPE
 .. image:: {filename}/images/016/images/cr.jpg
    :name: http://shenfang.com.tw/016/images/CR.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/016/images/50.jpg
    :name: http://shenfang.com.tw/016/images/50.jpg
@@ -178,7 +178,7 @@ The APN is made of galvanized steel plate covere with PVC anticorrosion、bendab
 .. image:: {filename}/images/016/images/apn.jpg
    :name: http://shenfang.com.tw/016/images/APN.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 | 1 FLEXIBLE CONDUITS
 | 2 COVER NUT
