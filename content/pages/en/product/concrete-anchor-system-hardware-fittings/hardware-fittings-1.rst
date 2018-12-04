@@ -18,7 +18,7 @@
 .. image:: {filename}/images/014/images/liujiaoluosi.jpg
    :name: http://shenfang.com.tw/014/images/六角螺絲.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -30,7 +30,7 @@
 .. image:: {filename}/images/014/images/03.jpg
    :name: http://shenfang.com.tw/014/images/03.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -54,7 +54,7 @@
 .. image:: {filename}/images/014/images/liujiaoluomao.jpg
    :name: http://shenfang.com.tw/014/images/六角螺帽.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
@@ -85,7 +85,7 @@
 .. image:: {filename}/images/014/images/fangxinghuasi.jpg
    :name: http://shenfang.com.tw/014/images/方型華司.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
@@ -164,7 +164,7 @@
 .. image:: {filename}/images/014/images/diaojieqi.jpg
    :name: http://shenfang.com.tw/014/images/調節器.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
