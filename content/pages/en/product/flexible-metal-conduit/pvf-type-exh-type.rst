@@ -240,7 +240,7 @@ Through special process, the EXH is setting very hard with anti-explosion union 
 .. image:: {filename}/images/016/images/fangbaoruanguan-1.jpg
    :name: http://shenfang.com.tw/016/images/防爆軟管-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/016/images/47-exh-1.gif
    :name: http://shenfang.com.tw/016/images/47-EXH-1.gif
