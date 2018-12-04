@@ -308,7 +308,7 @@ PCS CLAMPS
 .. image:: {filename}/images/013/images/kediaoxingguanshu.jpg
    :name: http://shenfang.com.tw/013/images/可調型管束.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
