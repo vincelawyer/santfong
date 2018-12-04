@@ -22,12 +22,12 @@ CABLE CLEAT - CL3 TYPE
 .. image:: {filename}/images/08/images/meihuaxing-2.jpg
    :name: http://shenfang.com.tw/08/images/梅花型-2.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/08/images/meihuaxing-.jpg
    :name: http://shenfang.com.tw/08/images/梅花型-.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -132,7 +132,7 @@ CABLE CLEAT - CL1 TYPE
 .. image:: {filename}/images/08/images/yuanxingzhichengjia-1.jpg
    :name: http://shenfang.com.tw/08/images/圓型支橕架-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
