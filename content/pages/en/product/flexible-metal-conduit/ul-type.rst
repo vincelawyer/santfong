@@ -11,7 +11,7 @@
 .. image:: {filename}/images/016/images/image001.jpg
    :name: http://shenfang.com.tw/016/images/image001.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 | Galvanized steel core, PVC jacketed.
 | Extra Waterproof, high tension, oily and flame resistant.
