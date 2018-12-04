@@ -19,7 +19,7 @@ Standard Mateeriais:Galvanized Sheet
 .. image:: {filename}/images/016/images/fm.jpg
    :name: http://shenfang.com.tw/016/images/fm.jpg
    :alt: product
-   :class: img-fluid final-product-image-max-width-230px
+   :class: img-fluid final-product-image-max-width
 
 .. raw:: html
 
@@ -264,7 +264,7 @@ MC TYPE
 .. image:: {filename}/images/016/images/mc2-1.jpg
    :name: http://shenfang.com.tw/016/images/MC2-1.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-width-230px
+   :class: img-fluid final-product-image-max-width
 
 .. raw:: html
 
