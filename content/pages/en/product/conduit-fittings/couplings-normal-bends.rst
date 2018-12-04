@@ -17,7 +17,7 @@ COUPLING - CPL TYPE
 .. image:: {filename}/images/07/images/cpl.gif
    :name: http://shenfang.com.tw/07/images/CPL.gif
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/cpl-1.gif
    :name: http://shenfang.com.tw/07/images/CPL-1.gif
@@ -225,7 +225,7 @@ NORMAL BENDS - NB TYPE
 .. image:: {filename}/images/07/images/nb.jpg
    :name: http://shenfang.com.tw/07/images/NB.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/nb-1.gif
    :name: http://shenfang.com.tw/07/images/NB-1.gif
