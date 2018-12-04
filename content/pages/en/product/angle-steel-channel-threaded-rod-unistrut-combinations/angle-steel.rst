@@ -11,7 +11,7 @@
 .. image:: {filename}/images/011/images/01.jpg
    :name: http://shenfang.com.tw/011/images/01.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. raw:: html
 
