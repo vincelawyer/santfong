@@ -231,7 +231,7 @@
 .. image:: {filename}/images/011/images/xinggangzuhe/c412.jpg
    :name: http://shenfang.com.tw/011/images/型鋼組合/C412.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
