@@ -22,7 +22,7 @@ PARSLLEL - PC TYPE
 .. image:: {filename}/images/013/images/40-1-1.jpg
    :name: http://shenfang.com.tw/013/images/40-1-1.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/013/images/40-pc-1.gif
    :name: http://shenfang.com.tw/013/images/40-PC-1.gif
@@ -201,12 +201,12 @@ EDGE - EG TYPE
 .. image:: {filename}/images/013/images/eg.jpg
    :name: http://shenfang.com.tw/013/images/EG.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/013/images/40-2.jpg
    :name: http://shenfang.com.tw/013/images/40-2.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/013/images/40-2.gif
    :name: http://shenfang.com.tw/013/images/40-2.gif
