@@ -15,7 +15,7 @@ TYPE: CHICO-A
 .. image:: {filename}/images/010/images/fangbaofen.jpg
    :name: http://shenfang.com.tw/010/images/防爆粉.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -152,7 +152,7 @@ JM.DUXSEAL
 .. image:: {filename}/images/010/images/fangbaotu-1.jpg
    :name: http://shenfang.com.tw/010/images/防爆土-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 T&B
 
