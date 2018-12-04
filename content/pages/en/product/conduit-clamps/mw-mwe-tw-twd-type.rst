@@ -279,7 +279,7 @@ TWO HOLE - TW TYPE
 .. image:: {filename}/images/013/images/danliguanjia.jpg
    :name: http://shenfang.com.tw/013/images/單立管夾.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
@@ -424,7 +424,7 @@ TWO HOLE - TWD TYPE
 .. image:: {filename}/images/013/images/danlihou.jpg
    :name: http://shenfang.com.tw/013/images/單立厚.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
