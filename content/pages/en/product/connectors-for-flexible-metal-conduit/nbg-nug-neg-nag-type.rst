@@ -17,7 +17,7 @@ WATERPROOF UNION BOX CONNECTOR FOR FLEXIBLE CONDUIT-NBG
 .. image:: {filename}/images/017/images/nbg.jpg
    :name: http://shenfang.com.tw/017/images/NBG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
