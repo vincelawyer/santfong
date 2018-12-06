@@ -454,7 +454,7 @@
 .. image:: {filename}/images/07/images/ecd.jpg
    :name: http://shenfang.com.tw/07/images/ECD.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/07/images/ecd-1.gif
    :name: http://shenfang.com.tw/07/images/ECD-1.gif
