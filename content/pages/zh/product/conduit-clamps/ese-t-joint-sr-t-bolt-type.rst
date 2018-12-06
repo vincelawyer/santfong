@@ -22,7 +22,7 @@ ESE  子母型管束
 .. image:: {filename}/images/013/images/zimuguanshu2.jpg
    :name: http://shenfang.com.tw/013/images/子母管束2.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -238,7 +238,7 @@ T 字 架
 .. image:: {filename}/images/013/images/luoshuiguanjia.jpg
    :name: http://shenfang.com.tw/013/images/落水管夾.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/013/images/luoshuiguanjia-2.jpg
    :name: http://shenfang.com.tw/013/images/落水管夾-2.JPG
@@ -364,7 +364,7 @@ T型螺絲
 .. image:: {filename}/images/013/images/txingluosi.jpg
    :name: http://shenfang.com.tw/013/images/T型螺絲.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
