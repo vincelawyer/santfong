@@ -13,7 +13,7 @@
 .. image:: {filename}/images/07/images/nip.gif
    :name: http://shenfang.com.tw/07/images/NIP.gif
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/nip-1.gif
    :name: http://shenfang.com.tw/07/images/NIP-1.gif
