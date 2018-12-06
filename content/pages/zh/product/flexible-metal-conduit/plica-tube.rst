@@ -21,7 +21,7 @@ Excellent features of PZ-4 Plica-Tube Resistance to corrosion. Screwing is not n
 .. image:: {filename}/images/016/images/pz4.jpg
    :name: http://shenfang.com.tw/016/images/PZ4.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/016/images/pz4-2.jpg
    :name: http://shenfang.com.tw/016/images/PZ4-2.JPG
@@ -226,7 +226,7 @@ The PV-5 is the same as PZ-4 but is covered with weather-resistant PVC through a
 .. image:: {filename}/images/016/images/pv5-2.jpg
    :name: http://shenfang.com.tw/016/images/PV5-2.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/016/images/50-3.jpg
    :name: http://shenfang.com.tw/016/images/50-3.JPG
