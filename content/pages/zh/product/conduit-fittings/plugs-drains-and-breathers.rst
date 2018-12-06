@@ -234,7 +234,7 @@
 .. image:: {filename}/images/07/images/plgy.jpg
    :name: http://shenfang.com.tw/07/images/PLGY.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/plgy-1.gif
    :name: http://shenfang.com.tw/07/images/PLGY-1.gif
