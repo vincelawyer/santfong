@@ -19,7 +19,7 @@ WATERPROOF UNION BOX CONNECTOR FOR PLICA-WBG
 .. image:: {filename}/images/017/images/wbg.jpg
    :name: http://shenfang.com.tw/017/images/WBG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/wbg-1.jpg
    :name: http://shenfang.com.tw/017/images/WBG-1.JPG
@@ -230,7 +230,7 @@ WATERPROOF UNION CONDUIT CONNECTOR FOR PLICA PV5-WUG
 .. image:: {filename}/images/017/images/wug.jpg
    :name: http://shenfang.com.tw/017/images/WUG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/wug-1.gif
    :name: http://shenfang.com.tw/017/images/WUG-1.gif
@@ -443,7 +443,7 @@ WATERPROOF UNION ELBOW CONNECTOR FOR PLICA PV5-WAG
 .. image:: {filename}/images/017/images/wag.jpg
    :name: http://shenfang.com.tw/017/images/WAG.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/wag-1.gif
    :name: http://shenfang.com.tw/017/images/WAG-1.gif
