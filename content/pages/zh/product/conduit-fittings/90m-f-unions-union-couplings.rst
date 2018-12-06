@@ -19,7 +19,7 @@
 .. image:: {filename}/images/07/images/unl.jpg
    :name: http://shenfang.com.tw/07/images/UNL.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/unl-1.gif
    :name: http://shenfang.com.tw/07/images/UNL-1.gif
