@@ -288,7 +288,7 @@
 .. image:: {filename}/images/016/images/mc2.jpg
    :name: http://shenfang.com.tw/016/images/MC2.JPG
    :alt: product
-   :class: img-fluidfinal-product-image-max-width
+   :class: img-fluidfinal-product-image-max-width-230px
 
 .. raw:: html
 
