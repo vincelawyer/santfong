@@ -19,7 +19,7 @@ WATERPROOF UNION BOX CONNECTOR FOR FLEXIBLE CONDUIT-NBG
 .. image:: {filename}/images/017/images/nbg.jpg
    :name: http://shenfang.com.tw/017/images/NBG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -144,7 +144,7 @@ WATERPROOF UNION CONDUIT CONNECTOR FOR FLEXIBLE CONDUIT-NUG
 .. image:: {filename}/images/017/images/nug.jpg
    :name: http://shenfang.com.tw/017/images/NUG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -269,7 +269,7 @@ NON-THREAD JOINTS FOR WATER PROOF
 .. image:: {filename}/images/017/images/neg.jpg
    :name: http://shenfang.com.tw/017/images/NEG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
