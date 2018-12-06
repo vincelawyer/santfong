@@ -11,7 +11,7 @@
 .. image:: {filename}/images/016/images/image001.jpg
    :name: http://shenfang.com.tw/016/images/image001.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 | 鍍鋅鐵皮製成，表面PVC被覆。
 | 超防水性，高抗拉性、防油性及耐延燒等特性。
