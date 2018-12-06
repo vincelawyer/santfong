@@ -205,7 +205,7 @@
 .. image:: {filename}/images/07/images/elf.jpg
    :name: http://shenfang.com.tw/07/images/ELF.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/07/images/elf-1.gif
    :name: http://shenfang.com.tw/07/images/ELF-1.gif
