@@ -17,7 +17,7 @@
 .. image:: {filename}/images/07/images/elmf.jpg
    :name: http://shenfang.com.tw/07/images/ELMF.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/elmf-1.gif
    :name: http://shenfang.com.tw/07/images/ELMF-1.gif
