@@ -19,7 +19,7 @@ WATERPROOF UNION BOX CONNECTOR FOR NIPPON FLEX VF-VBG
 .. image:: {filename}/images/017/images/vbg.jpg
    :name: http://shenfang.com.tw/017/images/VBG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/vbg-1.jpg
    :name: http://shenfang.com.tw/017/images/VBG-1.JPG
@@ -231,7 +231,7 @@ WATERPROOF UNION CONDUIT CONNECTOR FOR NIPPON FLEX VF-VUG
 .. image:: {filename}/images/017/images/vug.jpg
    :name: http://shenfang.com.tw/017/images/VUG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/vug-1.jpg
    :name: http://shenfang.com.tw/017/images/VUG-1.JPG
@@ -444,7 +444,7 @@ WATERPROOF UNION BOX ELBOW CONNECTOR FOR NIPPON FLEX-VAG
 .. image:: {filename}/images/017/images/wag.jpg
    :name: http://shenfang.com.tw/017/images/WAG.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/017/images/wag-1.gif
    :name: http://shenfang.com.tw/017/images/WAG-1.gif
