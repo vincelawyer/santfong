@@ -247,7 +247,7 @@ UL系列為Santfong產品需另外洽詢，本網頁規格圖片為非UL系列Sh
 .. image:: {filename}/images/07/images/unf.gif
    :name: http://shenfang.com.tw/07/images/UNF.gif
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/unf-1.gif
    :name: http://shenfang.com.tw/07/images/UNF-1.gif
