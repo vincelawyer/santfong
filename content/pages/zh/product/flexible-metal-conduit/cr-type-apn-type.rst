@@ -22,7 +22,7 @@ PVC被覆電線保護管  CR型
 .. image:: {filename}/images/016/images/cr.jpg
    :name: http://shenfang.com.tw/016/images/CR.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/016/images/50-1.gif
    :name: http://shenfang.com.tw/016/images/50-1.gif
@@ -193,7 +193,7 @@ PVC被覆電線保護管  CR型
 .. image:: {filename}/images/016/images/apn.jpg
    :name: http://shenfang.com.tw/016/images/APN.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/016/images/apn-1.jpg
    :name: http://shenfang.com.tw/016/images/APN-1.JPG
