@@ -186,7 +186,7 @@ FEC型(FEC TYPE)
 .. image:: {filename}/images/03/images/fec.jpg
    :name: http://shenfang.com.tw/03/images/FEC.jpg
    :alt: product
-   :class: img-fluid final-product-image-max-width
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/03/images/fec-1.jpg
    :name: http://shenfang.com.tw/03/images/FEC-1.jpg
