@@ -17,7 +17,7 @@
 .. image:: {filename}/images/07/images/hub.jpg
    :name: http://shenfang.com.tw/07/images/HUB.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/07/images/hub-1.jpg
    :name: http://shenfang.com.tw/07/images/HUB-1.JPG
