@@ -20,7 +20,7 @@ UNION ELBOW Tube to tube
 .. image:: {filename}/images/021/images/ue.jpg
    :name: http://shenfang.com.tw/021/images/UE.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -417,12 +417,12 @@ TEE TO TUBE
 .. image:: {filename}/images/021/images/ring.jpg
    :name: http://shenfang.com.tw/021/images/RING.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/021/images/ring3.jpg
    :name: http://shenfang.com.tw/021/images/RING3.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. raw:: html
 
