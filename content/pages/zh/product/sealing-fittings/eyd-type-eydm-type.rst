@@ -26,7 +26,7 @@ EYD型(EYD TYPE)
 .. image:: {filename}/images/06/images/eyd.jpg
    :name: http://shenfang.com.tw/06/images/EYD.jpg
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-height
 
 **1/2"~1"**
 
@@ -275,7 +275,7 @@ EYDM型(EYDM TYPE)
 .. image:: {filename}/images/06/images/eydm.jpg
    :name: http://shenfang.com.tw/06/images/EYDM.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-height
 
 .. image:: {filename}/images/06/images/eydm-1.gif
    :name: http://shenfang.com.tw/06/images/EYDM-1.gif
