@@ -15,7 +15,7 @@
 .. image:: {filename}/images/010/images/daodiangao.jpg
    :name: http://shenfang.com.tw/010/images/導電膏.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -81,7 +81,7 @@
 .. image:: {filename}/images/010/images/y77.jpg
    :name: http://shenfang.com.tw/010/images/Y77.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height
 
 .. raw:: html
 
