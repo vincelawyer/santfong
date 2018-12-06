@@ -189,7 +189,7 @@
 .. image:: {filename}/images/011/images/danhuangmao.jpg
    :name: http://shenfang.com.tw/011/images/彈簧帽.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/011/images/danhuangmao-1.jpg
    :name: http://shenfang.com.tw/011/images/彈簧帽-1.JPG
@@ -304,7 +304,7 @@
 .. image:: {filename}/images/011/images/xinggangzhijiao.jpg
    :name: http://shenfang.com.tw/011/images/型鋼直角.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/011/images/xinggangzhijiao-1.jpg
    :name: http://shenfang.com.tw/011/images/型鋼直角-1.JPG
