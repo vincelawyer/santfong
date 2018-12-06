@@ -15,7 +15,7 @@
 .. image:: {filename}/images/07/images/me.jpg
    :name: http://shenfang.com.tw/07/images/ME.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-230px
+   :class: img-fluid final-product-image-max-width-230px
 
 .. image:: {filename}/images/07/images/me-1.gif
    :name: http://shenfang.com.tw/07/images/ME-1.gif
