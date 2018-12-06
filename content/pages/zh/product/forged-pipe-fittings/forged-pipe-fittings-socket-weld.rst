@@ -22,7 +22,7 @@
 .. image:: {filename}/images/020/images/57-1.jpg
    :name: http://shenfang.com.tw/020/images/57-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -34,7 +34,7 @@
 .. image:: {filename}/images/020/images/57-2.jpg
    :name: http://shenfang.com.tw/020/images/57-2.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -65,7 +65,7 @@
 .. image:: {filename}/images/020/images/57-4.jpg
    :name: http://shenfang.com.tw/020/images/57-4.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -77,7 +77,7 @@
 .. image:: {filename}/images/020/images/57-5.jpg
    :name: http://shenfang.com.tw/020/images/57-5.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
@@ -151,7 +151,7 @@
 .. image:: {filename}/images/020/images/56-14.jpg
    :name: http://shenfang.com.tw/020/images/56-14.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. raw:: html
 
