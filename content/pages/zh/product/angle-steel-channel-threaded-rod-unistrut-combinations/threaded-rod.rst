@@ -11,7 +11,7 @@
 .. image:: {filename}/images/011/images/quanyaluogan3.jpg
    :name: http://shenfang.com.tw/011/images/全牙螺桿3.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. raw:: html
 
