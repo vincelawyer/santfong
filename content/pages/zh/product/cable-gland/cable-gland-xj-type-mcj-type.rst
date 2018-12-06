@@ -19,12 +19,12 @@
 .. image:: {filename}/images/08/images/xj.jpg
    :name: http://shenfang.com.tw/08/images/XJ.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. image:: {filename}/images/08/images/xj-1.jpg
    :name: http://shenfang.com.tw/08/images/XJ-1.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width-230px
 
 .. raw:: html
 
