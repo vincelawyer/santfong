@@ -19,7 +19,7 @@ CABLE GLAND
 .. image:: {filename}/images/08/images/cws.jpg
    :name: http://shenfang.com.tw/08/images/CWS.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/08/images/cws-1.jpg
    :name: http://shenfang.com.tw/08/images/CWS-1.JPG
@@ -396,7 +396,7 @@ CABLE GLAND
 .. image:: {filename}/images/08/images/mcg.jpg
    :name: http://shenfang.com.tw/08/images/MCG.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-width
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/08/images/mcg-1.jpg
    :name: http://shenfang.com.tw/08/images/MCG-1.JPG
