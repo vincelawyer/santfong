@@ -19,7 +19,7 @@
 .. image:: {filename}/images/016/images/fm.jpg
    :name: http://shenfang.com.tw/016/images/fm.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-width
 
 .. raw:: html
 
@@ -288,7 +288,7 @@
 .. image:: {filename}/images/016/images/mc2.jpg
    :name: http://shenfang.com.tw/016/images/MC2.JPG
    :alt: product
-   :class: img-fluid
+   :class: img-fluidfinal-product-image-max-width
 
 .. raw:: html
 
