@@ -37,7 +37,7 @@
 .. image:: {filename}/images/011/images/xinggangzuhe/c414-1.jpg
    :name: http://shenfang.com.tw/011/images/型鋼組合/C414-1.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/011/images/xinggangzuhe/c414.jpg
    :name: http://shenfang.com.tw/011/images/型鋼組合/C414.jpg
@@ -54,7 +54,7 @@
 .. image:: {filename}/images/011/images/xinggangzuhe/c415-1.jpg
    :name: http://shenfang.com.tw/011/images/型鋼組合/C415-1.jpg
    :alt: product
-   :class: img-fluid
+   :class: img-fluid final-product-image-max-height-230px
 
 .. image:: {filename}/images/011/images/xinggangzuhe/c415.jpg
    :name: http://shenfang.com.tw/011/images/型鋼組合/C415.jpg
