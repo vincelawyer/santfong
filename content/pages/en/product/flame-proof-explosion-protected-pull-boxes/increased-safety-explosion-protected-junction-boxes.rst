@@ -11,7 +11,7 @@
 .. image:: {filename}/images/022/images/xinziliaojia/asth.jpg
    :name: http://shenfang.com.tw/022/images/新資料夾/ASTH.JPG
    :alt: product
-   :class: img-fluid 
+   :class: img-fluid final-product-image-max-height-800px
 
 .. raw:: html
 
