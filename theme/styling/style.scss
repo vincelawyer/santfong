@@ -22,6 +22,12 @@
   max-width: 230px;
 }
 
+
+// 最後產品頁面的個別圖片做最大高度限制(最高500px)
+.final-product-image-max-height-500px {
+  max-height: 500px;
+}
+
 .main-content {
   ul {
     li {
