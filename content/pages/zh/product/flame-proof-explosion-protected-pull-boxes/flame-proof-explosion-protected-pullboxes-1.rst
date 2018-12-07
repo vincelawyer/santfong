@@ -14,7 +14,7 @@
 .. image:: {filename}/images/022/images/xinziliaojia/smg-1.jpg
    :name: http://shenfang.com.tw/022/images/新資料夾/SMG-1.JPG
    :alt: product
-   :class: img-fluid final-product-image-max-height-500px
+   :class: img-fluid final-product-image-max-height-800px
 
 .. raw:: html
 
