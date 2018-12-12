@@ -1,8 +1,17 @@
 <footer class="container">  
 <div id="footer_left">
-聖特隆實業有限公司&nbsp;| 台北總公司<br>
+{% if DEFAULT_LANG == 'en' %}
+Sunteron Enterprise CO., LTD&nbsp;| Taipei Office<br>
+9F., No.103, Sec. 2, Nanchang Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.)<br>
+TEL: 886-2-23687728  FAX: 886-2-23686105　Emai: sunteronco@gmail.com<br><br>
+Sunteron Enterprise CO., LTD&nbsp;| Kaohsiung Office<br>
+No.71, Zhongshanheng Rd., Xinxing Dist., Kaohsiung City 800, Taiwan (R.O.C.)<br>
+TEL: 886-7-2851499  FAX: 886-7-2853060　Emai: sunteronco@gmail.com
+{% else %}
+聖特隆實業有限公司&nbsp;| Kaohsiung Office<br>
 地址:台北市中正區南昌路二段103號9樓　電話:(02) 2368-7728　傳真:(02) 2368-6105　Emai: sunteronco@gmail.com<br><br>
 聖特隆實業有限公司&nbsp;| 高雄辦公室<br>
 地址:高雄市新興區中山橫路71號　電話:(07) 285-1499&nbsp; &nbsp;傳真(07) 285-3060　Emai: sunteronco@gmail.com
+{% endif %}
 </div>
 </footer>
