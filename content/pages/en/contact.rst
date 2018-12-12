@@ -23,7 +23,7 @@
 |
 | Sunteron Enterprises Co. Ltd
 |
-| Taipei office
+| Taipei Office
 | 9F.,No.103,Sec.2,Nanchang Rd., Zhongzheng Dist.,Taipei City 100, Taiwan (R.O.C.)
 | TEL:886-2-23687728 FAX:886-2-23686105
 | E-mail:sunteronco@gmail.com
