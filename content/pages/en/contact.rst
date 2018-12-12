@@ -25,12 +25,12 @@
 |
 | Taipei Office
 | 9F.,No.103,Sec.2,Nanchang Rd., Zhongzheng Dist.,Taipei City 100, Taiwan (R.O.C.)
-| TEL:886-2-23687728 FAX:886-2-23686105
+| TEL: 886-2-23687728 FAX: 886-2-23686105
 | E-mail:sunteronco@gmail.com
 |
 | Kaohsiung Office
 | No.71, Zhongshanheng Rd., Xinxing Dist., Kaohsiung City 800, Taiwan (R.O.C.)
-| TEL:886-7-2851499  FAX:886-7-2853060
+| TEL: 886-7-2851499  FAX: 886-7-2853060
 | E-mail:sunteronco@gmail.com
 |
 
