@@ -39,7 +39,7 @@
   .. image:: {filename}/images/016/images/fangbaoruanguan-1.jpg
      :name: http://shenfang.com.tw/016/images/防爆軟管-1.JPG
      :alt: product
-     :class: product-image-thumbnail final-product-image-max-width
+     :class: product-image-thumbnail 
 
 - `保曲佳軟管 <{filename}plica-tube.rst>`_
 
