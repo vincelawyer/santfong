@@ -70,7 +70,7 @@ PLUGINS = ['i18n_subsites',
 
 # custom setting for HTML meta info
 META_KEYWORDS = 'YOUR META KEYWORDS'
-META_DESCRIPTION = 'YOUR META DESCRIPTION'
+META_DESCRIPTION = 'Our company is located in Kaohsiung city & Taipei city, Taiwan. We manufacture several products such as Conduit fittings, Forged pipe fittings and Forged fitting etc. In past thirty years, we guaranteed high quality, best service and lowest price for our customers.'
 
 # mapping: language_code -> settings_overrides_dict
 I18N_SUBSITES = {
@@ -79,7 +79,7 @@ I18N_SUBSITES = {
     'AUTHOR': '您的姓名',
     'LOCALE': 'zh_TW.UTF-8',
     'META_KEYWORDS': 'YOUR zh META KEYWORDS',
-    'META_DESCRIPTION': 'YOUR zh META DESCRIPTION',
+    'META_DESCRIPTION': '專業從事於電管配件、導管配件、電線電纜托架之製造及安裝業務。 本公司秉持最高品質、快速效率、最低之價格服務業界，產品符合國內外認證，深獲各界推崇。',
   },
 }
 I18N_UNTRANSLATED_ARTICLES = 'remove'
