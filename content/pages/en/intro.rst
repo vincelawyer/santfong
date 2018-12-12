@@ -11,7 +11,7 @@
 About us
 ++++++++
 
-Our company is located in Kaohsiung city, Taiwan.
+Our company is located in Kaohsiung city & Taipei city, Taiwan.
 We manufacture several products such as Conduit fittings, Forged pipe fittings
 and Forged fitting etc. In past thirty years, we guaranteed high quality, best
 service and lowest price for our customers.
