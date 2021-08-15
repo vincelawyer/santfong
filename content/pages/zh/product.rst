@@ -17,7 +17,7 @@
      :class: product-image-thumbnail
 
 
-- `電管穿線匣 / CONDUIT OUTLET BOXES <{filename}product/conduit-outlet-boxes/list.rst>`_
+- `電管穿線匣 / CONDUIT BODIES <{filename}product/conduit-bodies/list.rst>`_
   (Provide UL listed series)
 
   .. image:: {filename}/images/02/images/lb.gif

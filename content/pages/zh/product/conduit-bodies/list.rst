@@ -1,14 +1,14 @@
-:title: CONDUIT OUTLET BOXES
-:slug: conduit-outlet-boxes
-:tags: product, product category
-:summary: CONDUIT OUTLET BOXES
-:lang: en
+:title: 電管穿線匣
+:slug: conduit-bodies
+:tags: product, 產品, 產品分類
+:summary: 電管穿線匣 / CONDUIT BODIES
+:lang: zh
 :status: hidden
-:source: http://shenfang.com.tw/02/d-1.htm
+:source: http://shenfang.com.tw/02/d.htm
 :og_image: https://sunteron.com/images/02/images/ll.gif
 
 
-- `LL TYPE ; LR TYPE <{filename}ll-type-lr-type.rst>`_
+- `TYPE : LL型 ; LR型 <{filename}ll-type-lr-type.rst>`_
 
   .. image:: {filename}/images/02/images/ll.gif
      :name: http://shenfang.com.tw/02/images/LL.gif
@@ -20,7 +20,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `TB TYPE ; T TYPE <{filename}tb-type-t-type.rst>`_
+- `TYPE : TB型 ; T型 <{filename}tb-type-t-type.rst>`_
 
   .. image:: {filename}/images/02/images/tb.gif
      :name: http://shenfang.com.tw/02/images/TB.gif
@@ -32,7 +32,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `LB TYPE ; C TYPE <{filename}lb-type-c-type.rst>`_
+- `TYPE : LB型 ; C型 <{filename}lb-type-c-type.rst>`_
 
   .. image:: {filename}/images/02/images/lb.gif
      :name: http://shenfang.com.tw/02/images/LB.gif
@@ -44,7 +44,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `X TYPE ; LBD TYPE <{filename}x-type-lbd-type.rst>`_
+- `TYPE : X型 ; LBD型 <{filename}x-type-lbd-type.rst>`_
 
   .. image:: {filename}/images/02/images/x.jpg
      :name: http://shenfang.com.tw/02/images/X.JPG

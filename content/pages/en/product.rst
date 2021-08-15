@@ -15,7 +15,7 @@
      :alt: product
      :class: product-image-thumbnail
 
-- `CONDUIT OUTLET BOXES <{filename}product/conduit-outlet-boxes/list.rst>`_
+- `CONDUIT BODIES <{filename}product/conduit-bodies/list.rst>`_
   (Provide UL listed series)
 
   .. image:: {filename}/images/02/images/lb.gif
